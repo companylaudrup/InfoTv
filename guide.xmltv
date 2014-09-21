@@ -767,6 +767,10 @@
     <display-name lang="en">LiverpoolFCTV</display-name>
     <url>http://www.uk-Skyuk.com</url>
   </channel>
+  <channel id="BoxNation">
+    <display-name lang="en">BoxNation</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
   <programme start="20140921000000 +0700" stop="20140921014000 +0700" channel="National Geographic">
     <title lang="en">Inside the Hunt for the Boston Bombers (Aka 5 Days</title>
     <sub-title lang="en">Inside the Hunt for the Boston Bombers (Aka 5 Days</sub-title>
