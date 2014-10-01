@@ -4,10 +4,10 @@
 acestream://d2ba74f1af4f863a1b5cc70471bd06c136b6812f
   	
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 1
-http://acabsw.doiptv.com/cs_canal_1/playlist.m3u8 
+rtmp://46.28.50.124/live playpath=culebro1?id=74671 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 2
-HD http://acabsw.doiptv.com/cs_canal_2/playlist.m3u8
+http://linksito.com/4dch
 
 #EXTINF:-1 tvg-logo="http://vertvonline.xtrweb.com/logostv/CANAL%20+%20ACCION.jpg" group-title="CINE",C+ Acción
 http://acabsw.doiptv.com/cs_canal_accion/playlist.m3u8
@@ -55,10 +55,13 @@ rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to
 rtmp://207.244.67.24/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes
-rtmpe://209.95.34.56:1935/live playpath=w-sp.tv-e2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
+rtmp://185.39.9.66:1735/vod?token=play@141212474203457 playpath=tvb7 swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/byDMO
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes
 rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
+
+#EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes 2
+rtmp://185.39.9.66:1735/vod?token=play@141088940205056 playpath=tvb3 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
 #EXTINF:-1 tvg-logo="http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/Canal+-F%C3%BAtbol-HD.jpg" group-title="DEPORTES",C+ Fútbol
 rtmpe://46.246.124.75:1935/live playpath=w-sp.tv-e1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
@@ -73,10 +76,10 @@ http://sogecabletok-channel04-apple-live.adaptive.level3.net/apple/sogecable/cha
 rtmp://212.7.209.20/live playpath=cararal?id=74466 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_TUap8Wjt9kg/TA--1LNWn7I/AAAAAAAAADY/J_2i14Nf_4g/s1600/canalplus_liga_hd.jpg" group-title="DEPORTES",C+ Liga
-rtmpe://209.95.34.62:1935/live playpath=w-sp.tv-e3 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
+rtmp://207.244.89.21/iguide playpath=ysxj77na2vpbpxl swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
 
 #EXTINF:-1 tvg-logo="http://lacajatv.tv/wp-content/uploads/2014/03/canal_plus_liga_campeones1.jpg" group-title="DEPORTES",C+ Liga de Campeones
-rtmp://109.123.116.154/live playpath=cararatalct?id=74508 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK loboicaperucita
+rtmp://185.39.9.66:1735/vod?token=play@141212474203457 playpath=tvb2 swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/byDMO
 
 #EXTINF:-1 tvg-logo="http://lacajatv.tv/wp-content/uploads/2014/03/canal_plus_liga_campeones1.jpg" group-title="DEPORTES",C+ Liga de Campeones
 rtmp://185.39.9.66:1735/vod?token=play@141088940205056 playpath=tvb3 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
@@ -119,7 +122,7 @@ rtmp://109.123.116.154/live playpath=foxsport2vip?id=74022 swfUrl=http://www.uca
 rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="GOL T.png" group-title="DEPORTES",Gol TV
-rtmp://46.28.50.124/live playpath=cararatag?id=74467 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/cararatag/1/645/395 Conn=S:OK --live
+rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
 http://88.12.17.244:4022/udp/239.0.0.17:8208
@@ -312,15 +315,27 @@ rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport-tv3.jpg" group-title="INTERSPORT",SPORT-TV 3
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
+#EXTINF:-1 tvg-logo="Super Sport 1" group-title="INTERSPORT",Super Sport 1 (Albania)
+http://149.255.39.122/aasd/8733/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Super Sport 2" group-title="INTERSPORT",Super Sport 2 (Albania)
+http://149.255.39.122/aasd/8734/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Super Sport 3" group-title="INTERSPORT",Super Sport 3 (Albania)
+http://149.255.39.122/aasd/8741/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Super Sport 4" group-title="INTERSPORT",Super Sport 4 (Albania)
+http://149.255.39.122/aasd/8743/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://farm3.staticflickr.com/2864/11885972434_2f2e183709_o.jpg" group-title="INTERSPORT",TEN ACTION
 rtmp://206.190.151.8/live playpath=s247tenbetaction?id=19666 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/s247tenbetaction/2/600/420 Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="http://farm3.staticflickr.com/2855/11885556015_d602e828cc_o.jpg" group-title="INTERSPORT",TEN SPORT
 rtmp://95.168.199.245:1935/live playpath=ten swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=ten&vw=620&vh=490 token=%ZZri(nKa@#Z
 
-
 #EXTINF:-1 tvg-logo="AXN.png" group-title="SERIES",Axn
 http://acabsw.doiptv.com/cs_axn/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.teledigital.es/wp-content/uploads/2013/11/CANAL+Series.gif" group-title="SERIES",C+ Series
 http://178.49.132.73/streaming/series/tvrec/playlist.m3u8
 
@@ -356,22 +371,22 @@ http://88.12.17.244:4022/udp/239.0.0.44:8208
 http://freetvcast.pw/embed.php?a=218&id=&width=650&height=400&autostart=true&strech
 
 #EXTINF:-1 tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/bio-biography_channel-logo.jpg" group-title="DOCUMENTALES",BIO
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=274&lan=2&rows=40&f=.m3u8
+rtmp://test.freelivetv.tv/live playpath=biopontucanal token=#ed%h0#w@1 swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://flashstreaming.mobi/
 
 #EXTINF:-1 tvg-logo="ANIMAL PLANET.png" group-title="DOCUMENTALES",ANIMAL PLANET
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://lacajatv.tv/cajanueva/logos/cazaypesca.jpg" group-title="DOCUMENTALES",Caza y Pesca
-http://freetvcast.pw/embed.php?a=207&id=&width=670&height=400&autostart=true&strech
+http://freebroadcast.pw/embed/embed.php?n=cazaypesca
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hgmDqn8qoHs/UisevnsHN9I/AAAAAAAAFrU/Sw82U1NrNDo/s1600/canalcocina.jpg" group-title="DOCUMENTALES",COCINA
-http://vercosasgratis.com/embed.php?a=592&id=&width=670&height=400&autostart=true&strech
+rtmp://6.flashstreaming.mobi/edge?token=#ed%h0#w@1 playpath=z0025coci swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://flashstreaming.mobi/
 
 #EXTINF:-1 tvg-logo="COSMOPOLITAN.png" group-title="DOCUMENTALES",Cosmopolitan
 http://88.12.17.244:4022/udp/239.0.0.15:8208
 
 #EXTINF:-1 tvg-logo="DISCOVERY.png" group-title="DOCUMENTALES",Discovery Channel
-rtmp://195.154.250.169/live?token=bkfR22jw6oKN9p_aP2PI5AExpired=1411924950 playpath=dmaxcine swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://freebroadcast.pw/
+rtmp://50.7.137.90/iguide playpath=ahlndplmgbhavw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
 
 #EXTINF:-1 tvg-logo="http://img.vayatele.com/2011/12/logo-discovery-max.JPG" group-title="DOCUMENTALES",DISCOVERY MAX
 http://88.12.17.244:4022/udp/239.0.0.32:8208
@@ -530,26 +545,41 @@ rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Cordoba vs Espanyol (28sep/21:00h)
 rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",CSK vs BAYER (30sep/18:00h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb9 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",PSG vs BARCELONA (30sep/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",ZENIT vs MONACO (1 OCT/18:00h)
 rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",APOEL vs AJAX (30sep/20:45h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb9 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",BORISOV vs BILBAO (30sep/20:45h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb2 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",M.CITY vs ROMA (30sep/20:45h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb7 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",SCHALKE 04 vs NK MARIBOR (30sep/20:45h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb3 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",DONETSK vs OPORTO (30sep/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Anderlecht VS B. Dortmund (1 OCT/20:45h)
 rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb4 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",S.PORTUGAL vs CHELSEA (30sep/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Arsenal VS Galatasaray (1 OCT/20:45h)
+rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb9 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",At. Madrid VS Juventus (1 OCT/20:45h)
+rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Basilea VS Liverpool (1 OCT/20:45h)
+rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb7 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Bayer Leverkusen VS Benfica (1 OCT/20:45h)
+rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb7 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",FC Malmoe VS Olympiacos (1 OCT/20:45h)
+rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb4 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",PFC Ludogorets VS Real Madrid (1 OCT/20:45h)
 rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb5 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+
+#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 1
+http://88.12.17.244:4022/udp/239.0.0.251:8208
+
+#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 2
+http://88.12.17.244:4022/udp/239.0.9.146:8208
+
+#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 3
+http://88.12.17.244:4022/udp/239.0.9.138:8208
+
+#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 4
+http://88.12.17.244:4022/udp/239.0.9.129:8208
+
+#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 5
+http://88.12.17.244:4022/udp/239.0.0.42:8208
