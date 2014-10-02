@@ -185,7 +185,7 @@ rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/ token
 rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm4.staticflickr.com/3811/11875605694_4fe4e683e8_o.jpg" group-title="INTERSPORT",bein sports 12
-rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://31.220.0.82:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn12&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://farm6.staticflickr.com/5062/13973749556_8c81fb9279_o.jpg" group-title="INTERSPORT",bein sports 13
 http://iptvfannansat.dyndns.tv/vach968588/7856995/13.ch
@@ -194,7 +194,7 @@ http://iptvfannansat.dyndns.tv/vach968588/7856995/13.ch
 http://iptvfannansat.dyndns.tv/vach968588/7856995/14.ch
 
 #EXTINF:-1 tvg-logo="https://farm8.staticflickr.com/7181/13997291654_08f0c38773_o.jpg" group-title="INTERSPORT",bein sports 15
-http://iptvfannansat.dyndns.tv/vach968588/7856995/15.ch
+rtmpe://46.246.124.29:1935/live playpath=jsc15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/
 
 #EXTINF:-1 tvg-logo="http://www.time4tv.com/images/channel-logo/boxnation.jpg" group-title="INTERSPORT",BoxNation
 rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
@@ -206,13 +206,13 @@ rtmp://31.220.0.103:1935/live playpath=bts1 swfUrl=http://www.flashtv.co/ePlayer
 rtmp://31.220.0.82:1935/live playpath=bt2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bt2&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport1.jpg" group-title="INTERSPORT",Digi Sport 1
-rtmpe://46.246.124.84/live playpath=dig1 pageUrl=http://www.dcast.tv/
+rtmpe://31.220.0.12/live playpath=dig1 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=dig1&vw=690&vh=420
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport2.jpg" group-title="INTERSPORT",Digi Sport 2
-rtmpe://31.220.0.12/live playpath=dig2 pageUrl=http://www.dcast.tv/
+rtmpe://31.220.0.12/live playpath=dig2 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=dig2&vw=690&vh=420
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport3.jpg" group-title="INTERSPORT",Digi Sport 3
-rtmpe://46.246.124.84/live playpath=sport11 pageUrl=http://www.dcast.tv/
+rtmpe://31.220.0.12/live playpath=sport11 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=sport11&vw=690&vh=420
 
 
 
@@ -247,7 +247,7 @@ rtmp://31.220.0.133:1935/live playpath=skyita2new pageUrl=http://www.flashtv.co/
 rtmp://31.220.0.133:1935/live playpath=sky03itanew swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sky03itanew&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wdlAQctyGF8/U36lIopkuEI/AAAAAAAAARo/gIldfGU6mgs/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 1
-rtmp://62.210.88.95:443/liverepeater playpath=166426 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=166426&width=620&height=490 token=#atd%#$ZH
+rtmp://94.102.56.157:443/liverepeater playpath=166457 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=166457&width=620&height=490 token=#atd%#$ZH
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_siFbFpAHko/U36lYEFEFlI/AAAAAAAAARw/jvenSLIIQYY/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 2
 rtmpe://46.246.124.28:1935/live/ playpath=sskys2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
@@ -266,12 +266,6 @@ rtmpe://46.246.124.28:1935/live/ playpath=sskysf1 pageUrl=http://www.hdcast.org/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%201.jpg" group-title="INTERSPORT",Sport 1
 http://77.90.73.1:4022/udp/233.136.41.45:1234
-
-#EXTINF:-1 tvg-logo="http://www.tvlizer.com/wp-content/uploads/2013/11/sport-1-golf-135x95.jpg" group-title="INTERSPORT",SPORT1 GOLF
-rtmp://212.7.209.18/live playpath=efsp1997?id=73562 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/efsp1997/1/600/470 conn=S:OK --live
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport1%20tennis.jpg" group-title="INTERSPORT",SPORT1 TENNIS
-rtmp://212.7.209.18/live playpath=efsp1997?id=73562 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/efsp1997/1/600/470 conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 1
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
@@ -304,13 +298,16 @@ rtmp://93.174.93.50:443/liveedge/ playpath=esportestv29D2 swfUrl=http://turbocas
 rtmp://93.174.93.50:443/liveedge/ playpath=esportestv29D2 swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv29D2 token=h1xbc 
 
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport-tv1-hd.jpeg" group-title="INTERSPORT",SPORT-TV 1
-rtmp://212.7.212.11/live playpath=efcrf?id=18092 swfUrl=http://www.ezcast.tv/static/scripts/fplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/efcrf/1/600/470 Conn=S:OK --live
+rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
 
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport_tv2_pt.jpg" group-title="INTERSPORT",SPORT-TV 2
 rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ 
 
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport-tv3.jpg" group-title="INTERSPORT",SPORT-TV 3
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2012/11/Sport-Tv-4.png" group-title="INTERSPORT",SPORT-TV 4
+rtmpe://r.livecast.cc/rs/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
 
 #EXTINF:-1 tvg-logo="Super Sport 1" group-title="INTERSPORT",Super Sport 1 (Albania)
 http://149.255.39.122/aasd/8733/index.m3u8
@@ -323,13 +320,6 @@ http://149.255.39.122/aasd/8741/index.m3u8
  
 #EXTINF:-1 tvg-logo="Super Sport 4" group-title="INTERSPORT",Super Sport 4 (Albania)
 http://149.255.39.122/aasd/8743/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://farm3.staticflickr.com/2864/11885972434_2f2e183709_o.jpg" group-title="INTERSPORT",TEN ACTION
-rtmp://206.190.151.8/live playpath=s247tenbetaction?id=19666 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/s247tenbetaction/2/600/420 Conn=S:OK --live
-
-#EXTINF:-1 tvg-logo="http://farm3.staticflickr.com/2855/11885556015_d602e828cc_o.jpg" group-title="INTERSPORT",TEN SPORT
-rtmp://95.168.199.245:1935/live playpath=ten swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=ten&vw=620&vh=490 token=%ZZri(nKa@#Z
-
 
 #EXTINF:-1 tvg-logo="AXN.png" group-title="SERIES",Axn
 http://acabsw.doiptv.com/cs_axn/playlist.m3u8

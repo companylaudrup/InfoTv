@@ -4,7 +4,7 @@
 acestream://d2ba74f1af4f863a1b5cc70471bd06c136b6812f
   	
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 1
-rtmp://46.28.50.124/live playpath=culebro1?id=74671 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
+rtmp://$OPT:rtmp-raw=rtmp://46.28.50.124/live playpath=culebro1?id=74671 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 2
 http://linksito.com/4dch
@@ -34,13 +34,13 @@ http://mobi3.ibrod.tv:1935/ibusa/hbo.stream/playlist.m3u8
 http://vaughnlive.tv/embed/video/mega_extremo?viewers=true&watermark=left&autoplay=true
 
 #EXTINF:-1 tvg-logo="HBO PLUS.png" group-title="CINE",HBO HD
-rtmp://$OPT:rtmp-raw=rtmp://46.165.251.99/live playpath=hhhhbo?id=211931 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/hhhhbo/1/620/382 Conn=S:OK
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp://$OPT:rtmp-raw=rtmp-raw=rtmp://$OPT:rtmp-raw=rtmp://46.165.251.99/live playpath=hhhhbo?id=211931 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/hhhhbo/1/620/382 Conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.vootar.com/imgs/elementos/1248207222_Canal%20Hollywood.jpg" group-title="CINE",Hollywood
 http://88.12.17.244:4022/udp/239.0.0.16:8208
 
 #EXTINF:-1 tvg-logo="MAX PRIME.png" group-title="CINE",MAX PRIME
-rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?/59hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf pageUrl=http://75.126.217.6/videoteca/play live=1
+rtmp://$OPT:rtmp-raw=rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?/59hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf pageUrl=http://75.126.217.6/videoteca/play live=1
 
 #EXTINF:-1 tvg-logo="MOVIECITY FAMILY.png" group-title="CINE",MOVIECITY FAMILY
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=342&lan=2&rows=40&f=.m3u8
@@ -49,46 +49,46 @@ https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=342&lan=
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg" group-title="DEPORTES",Arenavision 1
-rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+rtmp://$OPT:rtmp-raw=rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg" group-title="DEPORTES",Arenavision 2
-rtmp://207.244.67.24/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+rtmp://$OPT:rtmp-raw=rtmp://207.244.67.24/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes
-rtmp://185.39.9.66:1735/vod?token=play@141212474203457 playpath=tvb7 swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/byDMO
+rtmp://$OPT:rtmp-raw=rtmp://185.39.9.66:1735/vod?token=play@141212474203457 playpath=tvb7 swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/byDMO
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes
-rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes 2
-rtmp://185.39.9.66:1735/vod?token=play@141088940205056 playpath=tvb3 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+rtmp://$OPT:rtmp-raw=rtmp://185.39.9.66:1735/vod?token=play@141088940205056 playpath=tvb3 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
 #EXTINF:-1 tvg-logo="http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/Canal+-F%C3%BAtbol-HD.jpg" group-title="DEPORTES",C+ Fútbol
-rtmpe://46.246.124.75:1935/live playpath=w-sp.tv-e1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.75:1935/live playpath=w-sp.tv-e1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
 
 #EXTINF:-1 tvg-logo="http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/Canal+-F%C3%BAtbol-HD.jpg" group-title="DEPORTES",C+ Fútbol
-rtmpe://209.95.34.56:1935/live playpath=w-sp.tv-e1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://209.95.34.56:1935/live playpath=w-sp.tv-e1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3nWpx2a.jpg" group-title="DEPORTES",C+ Golf
 http://sogecabletok-channel04-apple-live.adaptive.level3.net/apple/sogecable/channel4tk/02.m3u8?nvb=20140926163128&nva=20140926213128&token=0563419e2c50f12051ef3
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_TUap8Wjt9kg/TA--1LNWn7I/AAAAAAAAADY/J_2i14Nf_4g/s1600/canalplus_liga_hd.jpg" group-title="DEPORTES",C+ Liga
-rtmp://31.7.57.106/iguide playpath=ysxj77na2vpbpxl swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://212.7.209.20/live playpath=cararal?id=74466 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_TUap8Wjt9kg/TA--1LNWn7I/AAAAAAAAADY/J_2i14Nf_4g/s1600/canalplus_liga_hd.jpg" group-title="DEPORTES",C+ Liga
-rtmp://207.244.77.15/iguide playpath=ysxj77na2vpbpxl swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=580&height=380&channel=21924&autoplay=true token=#ed%h0#w18623jsda6523lDGDdmo
+rtmp://$OPT:rtmp-raw=rtmp://207.244.89.21/iguide playpath=ysxj77na2vpbpxl swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
 
 #EXTINF:-1 tvg-logo="http://lacajatv.tv/wp-content/uploads/2014/03/canal_plus_liga_campeones1.jpg" group-title="DEPORTES",C+ Liga de Campeones
-rtmp://185.39.9.66:1735/vod?token=play@141212474203457 playpath=tvb2 swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/byDMO
+rtmp://$OPT:rtmp-raw=rtmp://185.39.9.66:1735/vod?token=play@141212474203457 playpath=tvb2 swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/byDMO
 
 #EXTINF:-1 tvg-logo="http://lacajatv.tv/wp-content/uploads/2014/03/canal_plus_liga_campeones1.jpg" group-title="DEPORTES",C+ Liga de Campeones
-rtmp://185.39.9.66:1735/vod?token=play@141088940205056 playpath=tvb3 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+rtmp://$OPT:rtmp-raw=rtmp://185.39.9.66:1735/vod?token=play@141088940205056 playpath=tvb3 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
 #EXTINF:-1 tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sport-en-espanol.gif" group-title="DEPORTES",bein sports Ñ
-rtmp://cdn.streamcasttv.biz/liverepeat/ playpath=ZonaSports5768 swfUrl=http://streamcasttv.biz/jwplayer/jwplayer.flash.swf pageUrl=http://streamcasttv.biz/embed.php?file=ZonaSports5768&width=800&height=600live%3D1
+rtmp://$OPT:rtmp-raw=rtmp://cdn.streamcasttv.biz/liverepeat/ playpath=ZonaSports5768 swfUrl=http://streamcasttv.biz/jwplayer/jwplayer.flash.swf pageUrl=http://streamcasttv.biz/embed.php?file=ZonaSports5768&width=800&height=600live%3D1
 
 #EXTINF:-1 tvg-logo="DirectTv Sports .png" group-title="DEPORTES",DirectTv Sports 
-rtmp://188.254.54.210:1940/stream playpath=24684 swfUrl=http://goodgame.ru/files/tmp/ggplayer.swf live=1 pageUrl=http://goodgame.ru/player?24684
+rtmp://$OPT:rtmp-raw=rtmp://188.254.54.210:1940/stream playpath=24684 swfUrl=http://goodgame.ru/files/tmp/ggplayer.swf live=1 pageUrl=http://goodgame.ru/player?24684
 
 #EXTINF:-1 tvg-logo="ESPN HD.png" group-title="DEPORTES",ESPN HD
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
@@ -100,29 +100,29 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&ro
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://i58.tinypic.com/2k3uh0.jpg" group-title="DEPORTES",ESPN +
-rtmp://198.144.153.138:443/kuyo playpath=roval21?id=6a6c1ed92f1462cdc2217cdef7413d46&pid=39352e32322e3138372e3333 swfUrl=http://yukons.net/yplay2.swf live=1 pageUrl=http://yukons.net/embed/3732364637363631364333323331/5482bcbc78a85eff6ab02ce723bd7c02/620/382
+rtmp://$OPT:rtmp-raw=rtmp://198.144.153.138:443/kuyo playpath=roval21?id=6a6c1ed92f1462cdc2217cdef7413d46&pid=39352e32322e3138372e3333 swfUrl=http://yukons.net/yplay2.swf live=1 pageUrl=http://yukons.net/embed/3732364637363631364333323331/5482bcbc78a85eff6ab02ce723bd7c02/620/382
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-NH9V9EIXDPg/TfOwmW5yiVI/AAAAAAAAAiw/9riAAWyLHBw/s1600/espn_deportes.jpg" group-title="DEPORTES",ESPN Deportes
-rtmp://184.75.214.114/edge/espn09212014 playpath=espn09212014 swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=espn09212014&width=600&height=400&domain=www.pirlotv.tv
+rtmp://$OPT:rtmp-raw=rtmp://184.75.214.114/edge/espn09212014 playpath=espn09212014 swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=espn09212014&width=600&height=400&domain=www.pirlotv.tv
 
 #EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="DEPORTES",Eurosport
-rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE0IDEwO jMwOjQ2IEFNJmhhc2hfdmFsdWU9K2tpVWVvbzlMdlZXZGp0TEl CM0VCdz09JnZhbGlkbWludXRlcz0yMA==/eurosport-hq
+rtmp://$OPT:rtmp-raw=rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE0IDEwO jMwOjQ2IEFNJmhhc2hfdmFsdWU9K2tpVWVvbzlMdlZXZGp0TEl CM0VCdz09JnZhbGlkbWludXRlcz0yMA==/eurosport-hq
 
 #EXTINF:-1 tvg-logo="EUROSPORT 2" group-title="DEPORTES",Eurosport 2
-rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE0IDEwO jMwOjQ2IEFNJmhhc2hfdmFsdWU9K2tpVWVvbzlMdlZXZGp0TEl CM0VCdz09JnZhbGlkbWludXRlcz0yMA==/eurosport2-hq
+rtmp://$OPT:rtmp-raw=rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE0IDEwO jMwOjQ2IEFNJmhhc2hfdmFsdWU9K2tpVWVvbzlMdlZXZGp0TEl CM0VCdz09JnZhbGlkbWludXRlcz0yMA==/eurosport2-hq
 #EXTINF:-1,Eurosport1 30-9 m3u8
 
 #EXTINF:-1 tvg-logo="Fox Sports.png" group-title="DEPORTES",Fox Sports
-rtmp://212.7.209.16/live playpath=foxsportvip?id=74021 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK 
+rtmp://$OPT:rtmp-raw=rtmp://212.7.209.16/live playpath=foxsportvip?id=74021 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK 
 
 #EXTINF:-1 tvg-logo="Fox Sports 2.png" group-title="DEPORTES",Fox Sports 2
-rtmp://109.123.116.154/live playpath=foxsport2vip?id=74022 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK 
+rtmp://$OPT:rtmp-raw=rtmp://109.123.116.154/live playpath=foxsport2vip?id=74022 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK 
 
 #EXTINF:-1 tvg-logo="http://lasala9.net/es/wp-content/uploads/2014/05/bmeaji1.jpg" group-title="DEPORTES",Gol TV
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="GOL T.png" group-title="DEPORTES",Gol TV
-rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
 http://88.12.17.244:4022/udp/239.0.0.17:8208
@@ -131,64 +131,64 @@ http://88.12.17.244:4022/udp/239.0.0.17:8208
 http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="TVC DEPORTES.png" group-title="DEPORTES",TVC DEPORTES
-rtmp://109.123.126.66/live playpath=tvccomp?id=72042 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/tvccomp/1/620/382 conn=S:OK --live
+rtmp://$OPT:rtmp-raw=rtmp://109.123.126.66/live playpath=tvccomp?id=72042 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/tvccomp/1/620/382 conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/UFC.jpg" group-title="DEPORTES",UFC
 http://202.75.23.37:1400/live/ch20/03.m3u8
 
 #EXTINF:-1 tvg-logo="WWWE.png" group-title="DEPORTES",WWWE
-rtmp://206.190.140.100:443/liverepeater playpath=164536 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/stream.php?id=164536&width=600&height=450 token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://206.190.140.100:443/liverepeater playpath=164536 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/stream.php?id=164536&width=600&height=450 token=#atd%#$ZH
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 1
-rtmp://146.185.253.120:1935/live playpath=ar11a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar11a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 2
-rtmp://146.185.253.120:1935/live playpath=ar21a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar21a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 3
-rtmp://146.185.253.120:1935/live playpath=ar31a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar31a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 4
-rtmp://146.185.253.120:1935/live playpath=ar41a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar41a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="http://livestreamhunter.org/images/logos/arena5.jpg" group-title="INTERSPORT",Arena Sport 5
-rtmp://146.185.253.120:1935/live playpath=ar51a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
+rtmp://$OPT:rtmp-raw=rtmp://146.185.253.120:1935/live playpath=ar51a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5535/11876015746_63973be0ff_o.jpg" group-title="INTERSPORT",bein sports 1
-rtmp://31.220.0.103:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5497/11875607834_539a170882_o.jpg" group-title="INTERSPORT",bein sports 2
-rtmp://31.220.0.103:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm4.staticflickr.com/3780/11876015246_414c2131c0_o.jpg" group-title="INTERSPORT",bein sports 3
-rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://s2.yimg.com/sk/3702/11875448753_3c89ba76d7_o.jpg" group-title="INTERSPORT",bein sports 4
-rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm8.staticflickr.com/7330/11875606994_7b9a339daf_o.jpg" group-title="INTERSPORT",bein sports 5
-rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5507/11876014376_0a891b585c_o.jpg" group-title="INTERSPORT",bein sports 6
-rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5511/11875448123_b184e91c00_o.jpg" group-title="INTERSPORT",bein sports 7
-rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5482/11875606304_31ae63dc42_o.jpg" group-title="INTERSPORT",bein sports 8
-rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH
 
 #EXTINF:-1 tvg-logo="https://farm8.staticflickr.com/7326/13993655552_549a3fcd41_o.jpg" group-title="INTERSPORT",bein sports 9
-rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://farm6.staticflickr.com/5464/13997292544_e04ec5d172_o.jpg" group-title="INTERSPORT",bein sports 10
-rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5485/11875447663_368349768f_o.jpg" group-title="INTERSPORT",bein sports 11
-rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm4.staticflickr.com/3811/11875605694_4fe4e683e8_o.jpg" group-title="INTERSPORT",bein sports 12
-rtmp://31.220.0.82:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn12&vw=620&vh=490 token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://farm6.staticflickr.com/5062/13973749556_8c81fb9279_o.jpg" group-title="INTERSPORT",bein sports 13
 http://iptvfannansat.dyndns.tv/vach968588/7856995/13.ch
@@ -197,118 +197,121 @@ http://iptvfannansat.dyndns.tv/vach968588/7856995/13.ch
 http://iptvfannansat.dyndns.tv/vach968588/7856995/14.ch
 
 #EXTINF:-1 tvg-logo="https://farm8.staticflickr.com/7181/13997291654_08f0c38773_o.jpg" group-title="INTERSPORT",bein sports 15
-rtmpe://46.246.124.29:1935/live playpath=jsc15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/
+http://iptvfannansat.dyndns.tv/vach968588/7856995/15.ch
 
 #EXTINF:-1 tvg-logo="http://www.time4tv.com/images/channel-logo/boxnation.jpg" group-title="INTERSPORT",BoxNation
-rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt1.jpg" group-title="INTERSPORT",BT Sport 1
-rtmp://31.220.0.103:1935/live playpath=bts1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bts1&vw=620&vh=490 token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bts1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bts1&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt2.jpg" group-title="INTERSPORT",BT Sport 2
-rtmp://31.220.0.82:1935/live playpath=bt2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bt2&vw=620&vh=490 token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=bt2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bt2&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport1.jpg" group-title="INTERSPORT",Digi Sport 1
-rtmpe://31.220.0.12/live playpath=dig1 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=dig1&vw=690&vh=420
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.84/live playpath=dig1 pageUrl=http://www.dcast.tv/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport2.jpg" group-title="INTERSPORT",Digi Sport 2
-rtmpe://31.220.0.12/live playpath=dig2 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=dig2&vw=690&vh=420
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://31.220.0.12/live playpath=dig2 pageUrl=http://www.dcast.tv/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport3.jpg" group-title="INTERSPORT",Digi Sport 3
-rtmpe://31.220.0.12/live playpath=sport11 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=sport11&vw=690&vh=420
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.84/live playpath=sport11 pageUrl=http://www.dcast.tv/
 
 #EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="INTERSPORT",Eurosport
-rtmp://31.220.0.103:1935/live/eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live/eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="EUROSPORT 2" group-title="INTERSPORT",Eurosport 2
-rtmp://31.220.0.103:1935/live/eurs2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live/eurs2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/fightbox.jpg" group-title="INTERSPORT",FIGHT BOX
 http://202.75.23.37/live/ch20/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/mlb.jpg" group-title="INTERSPORT",MLB NETWORK
-rtmp://173.192.81.176:443/liverepeater playpath=164461 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=164461&width=620&height=490 token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://173.192.81.176:443/liverepeater playpath=164461 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=164461&width=620&height=490 token=#atd%#$ZH
 
 #EXTINF:-1 tvg-logo="http://www.time4tv.com/images/channel-logo/nbatv.jpg" group-title="INTERSPORT",NBA TV
-rtmp://46.246.124.16:1935/live playpath=nbatv swfUrl=http://www.renttcars.com/player.swf live=1 pageUrl=http://www.cndhlsstream.pw/embed.php?channel=nbatv&vw=580&vh=390&domain=www.cndhlsstream.pw
+rtmp://$OPT:rtmp-raw=rtmp://46.246.124.16:1935/live playpath=nbatv swfUrl=http://www.renttcars.com/player.swf live=1 pageUrl=http://www.cndhlsstream.pw/embed.php?channel=nbatv&vw=580&vh=390&domain=www.cndhlsstream.pw
 
 #EXTINF:-1 tvg-logo="http://www.time4tv.com/images/channel-logo/premier.jpg" group-title="INTERSPORT",Premier Sports
-rtmp://31.220.0.134:1935/live playpath=gewgegs2222 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=gewgegs2222&vw=650&vh=380 token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=gewgegs2222 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=gewgegs2222&vw=650&vh=380 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/sky_calcio.jpg" group-title="INTERSPORT",SKY CALCIO (ITA)
-rtmp://31.220.0.196:1935/live playpath=skycalciomain swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skycalciomain&vw=620&vh=490 token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.196:1935/live playpath=skycalciomain swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skycalciomain&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_calcio1.jpg" group-title="INTERSPORT",SKY SPORTS1 (ITA)
-rtmp://31.220.0.104:1935/live playpath=sky01ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sky01ita&vw=620&vh=490 token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live playpath=sky01ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sky01ita&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_calcio2.jpg" group-title="INTERSPORT",SKY SPORTS2 (ITA)
-rtmp://31.220.0.133:1935/live playpath=skyita2new pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=skyita2new pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_calcio3.jpg" group-title="INTERSPORT",SKY SPORTS3 (ITA)
-rtmp://31.220.0.133:1935/live playpath=sky03itanew swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sky03itanew&vw=620&vh=490 token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=sky03itanew swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sky03itanew&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wdlAQctyGF8/U36lIopkuEI/AAAAAAAAARo/gIldfGU6mgs/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 1
-rtmp://94.102.56.157:443/liverepeater playpath=166457 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=166457&width=620&height=490 token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://62.210.88.95:443/liverepeater playpath=166426 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=166426&width=620&height=490 token=#atd%#$ZH
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_siFbFpAHko/U36lYEFEFlI/AAAAAAAAARw/jvenSLIIQYY/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 2
-rtmpe://46.246.124.28:1935/live/ playpath=sskys2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskys2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5RG9uacR3mg/U36lhS_HaPI/AAAAAAAAAR4/APixD08cj44/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 3
-rtmp://93.174.95.125:443/liverepeater playpath=166425 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=166425&width=620&height=490 token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://93.174.95.125:443/liverepeater playpath=166425 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=166425&width=620&height=490 token=#atd%#$ZH
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--IEwJB9AA8s/U36lvfVSwjI/AAAAAAAAASA/JjC6zgX1QOQ/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 4
-rtmpe://46.246.124.28:1935/live/ playpath=sskys4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskys4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg" group-title="INTERSPORT",Sky Sports 5
-rtmpe://46.246.124.28:1935/live/ playpath=sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SkySportsF1.jpg" group-title="INTERSPORT",Sky Sports F1
-rtmpe://46.246.124.28:1935/live/ playpath=sskysf1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.28:1935/live/ playpath=sskysf1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%201.jpg" group-title="INTERSPORT",Sport 1
 http://77.90.73.1:4022/udp/233.136.41.45:1234
 
+#EXTINF:-1 tvg-logo="http://www.tvlizer.com/wp-content/uploads/2013/11/sport-1-golf-135x95.jpg" group-title="INTERSPORT",SPORT1 GOLF
+rtmp://$OPT:rtmp-raw=rtmp://212.7.209.18/live playpath=efsp1997?id=73562 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/efsp1997/1/600/470 conn=S:OK --live
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport1%20tennis.jpg" group-title="INTERSPORT",SPORT1 TENNIS
+rtmp://$OPT:rtmp-raw=rtmp://212.7.209.18/live playpath=efsp1997?id=73562 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/efsp1997/1/600/470 conn=S:OK --live
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 1
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+rtmp://$OPT:rtmp-raw=rtmp://streamer.a1.net:1935/rtmp://$OPT:rtmp-raw=rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 2
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+rtmp://$OPT:rtmp-raw=rtmp://streamer.a1.net:1935/rtmp://$OPT:rtmp-raw=rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 3
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+rtmp://$OPT:rtmp-raw=rtmp://streamer.a1.net:1935/rtmp://$OPT:rtmp-raw=rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 4
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+rtmp://$OPT:rtmp-raw=rtmp://streamer.a1.net:1935/rtmp://$OPT:rtmp-raw=rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 5
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+rtmp://$OPT:rtmp-raw=rtmp://streamer.a1.net:1935/rtmp://$OPT:rtmp-raw=rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 6
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+rtmp://$OPT:rtmp-raw=rtmp://streamer.a1.net:1935/rtmp://$OPT:rtmp-raw=rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 7
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+rtmp://$OPT:rtmp-raw=rtmp://streamer.a1.net:1935/rtmp://$OPT:rtmp-raw=rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
 
 #EXTINF:-1 tvg-logo="http://tvtoss.com/uploads/channel-logo/brazil/sportv_br.jpg" group-title="INTERSPORT",SPORTV1
-rtmp://93.174.93.50:443/liveedge/ playpath=esportestv29D2 swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv29D2 token=h1xbc 
+rtmp://$OPT:rtmp-raw=rtmp://93.174.93.50:443/liveedge/ playpath=esportestv29D2 swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv29D2 token=h1xbc 
 
 #EXTINF:-1 tvg-logo="http://tvtoss.com/uploads/channel-logo/brazil/sportv2_br.jpg" group-title="INTERSPORT",SPORTV2
-rtmp://93.174.93.50:443/liveedge/ playpath=esportestv29D2 swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv29D2 token=h1xbc 
+rtmp://$OPT:rtmp-raw=rtmp://93.174.93.50:443/liveedge/ playpath=esportestv29D2 swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv29D2 token=h1xbc 
 
 #EXTINF:-1 tvg-logo="http://tvtoss.com/uploads/channel-logo/brazil/sportv3_br.jpg" group-title="INTERSPORT",SPORTV3
-rtmp://93.174.93.50:443/liveedge/ playpath=esportestv29D2 swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv29D2 token=h1xbc 
+rtmp://$OPT:rtmp-raw=rtmp://93.174.93.50:443/liveedge/ playpath=esportestv29D2 swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv29D2 token=h1xbc 
 
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport-tv1-hd.jpeg" group-title="INTERSPORT",SPORT-TV 1
-rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
+rtmp://$OPT:rtmp-raw=rtmp://212.7.212.11/live playpath=efcrf?id=18092 swfUrl=http://www.ezcast.tv/static/scripts/fplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/efcrf/1/600/470 Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport_tv2_pt.jpg" group-title="INTERSPORT",SPORT-TV 2
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ 
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ 
 
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport-tv3.jpg" group-title="INTERSPORT",SPORT-TV 3
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2012/11/Sport-Tv-4.png" group-title="INTERSPORT",SPORT-TV 4
-rtmpe://r.livecast.cc/rs/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
+rtmp://$OPT:rtmp-raw=rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
 #EXTINF:-1 tvg-logo="Super Sport 1" group-title="INTERSPORT",Super Sport 1 (Albania)
 http://149.255.39.122/aasd/8733/index.m3u8
@@ -322,11 +325,17 @@ http://149.255.39.122/aasd/8741/index.m3u8
 #EXTINF:-1 tvg-logo="Super Sport 4" group-title="INTERSPORT",Super Sport 4 (Albania)
 http://149.255.39.122/aasd/8743/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://farm3.staticflickr.com/2864/11885972434_2f2e183709_o.jpg" group-title="INTERSPORT",TEN ACTION
+rtmp://$OPT:rtmp-raw=rtmp://206.190.151.8/live playpath=s247tenbetaction?id=19666 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/s247tenbetaction/2/600/420 Conn=S:OK --live
+
+#EXTINF:-1 tvg-logo="http://farm3.staticflickr.com/2855/11885556015_d602e828cc_o.jpg" group-title="INTERSPORT",TEN SPORT
+rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=ten swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=ten&vw=620&vh=490 token=%ZZri(nKa@#Z
+
 #EXTINF:-1 tvg-logo="AXN.png" group-title="SERIES",Axn
 http://acabsw.doiptv.com/cs_axn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.teledigital.es/wp-content/uploads/2013/11/CANAL+Series.gif" group-title="SERIES",C+ Series
-http://dpluspc-i.akamaihd.net/hls/live/201772/channelpc7/05.m3u8
+http://178.49.132.73/streaming/series/tvrec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_PqT4khkofNI/TCx2_8qF-1I/AAAAAAAATg0/t7K1znsbiNU/s400/antiguo.jpg" group-title="SERIES",Calle 13
 http://88.12.17.244:4022/udp/239.0.0.13:8208
@@ -348,7 +357,7 @@ http://xurl.es/pirricrime
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
 
 #EXTINF:-1 tvg-logo="NOVA.png" group-title="SERIES",Nova
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-eventos6_1 swfUrl= live=1 pageUrl=<objectEncoding> <objectEncoding>
+rtmp://$OPT:rtmp-raw=rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-eventos6_1 swfUrl= live=1 pageUrl=<objectEncoding> <objectEncoding>
 
 #EXTINF:-1 tvg-logo="SYFY.png" group-title="SERIES",SYFY
 http://xurl.es/pirrisify
@@ -360,7 +369,7 @@ http://88.12.17.244:4022/udp/239.0.0.44:8208
 http://freetvcast.pw/embed.php?a=218&id=&width=650&height=400&autostart=true&strech
 
 #EXTINF:-1 tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/bio-biography_channel-logo.jpg" group-title="DOCUMENTALES",BIO
-rtmp://test.freelivetv.tv/live playpath=biopontucanal token=#ed%h0#w@1 swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://flashstreaming.mobi/
+rtmp://$OPT:rtmp-raw=rtmp://test.freelivetv.tv/live playpath=biopontucanal token=#ed%h0#w@1 swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://flashstreaming.mobi/
 
 #EXTINF:-1 tvg-logo="ANIMAL PLANET.png" group-title="DOCUMENTALES",ANIMAL PLANET
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&rows=40&f=.m3u8
@@ -369,13 +378,13 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&ro
 http://freebroadcast.pw/embed/embed.php?n=cazaypesca
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hgmDqn8qoHs/UisevnsHN9I/AAAAAAAAFrU/Sw82U1NrNDo/s1600/canalcocina.jpg" group-title="DOCUMENTALES",COCINA
-rtmp://6.flashstreaming.mobi/edge?token=#ed%h0#w@1 playpath=z0025coci swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://flashstreaming.mobi/
+rtmp://$OPT:rtmp-raw=rtmp://6.flashstreaming.mobi/edge?token=#ed%h0#w@1 playpath=z0025coci swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://flashstreaming.mobi/
 
 #EXTINF:-1 tvg-logo="COSMOPOLITAN.png" group-title="DOCUMENTALES",Cosmopolitan
 http://88.12.17.244:4022/udp/239.0.0.15:8208
 
 #EXTINF:-1 tvg-logo="DISCOVERY.png" group-title="DOCUMENTALES",Discovery Channel
-rtmp://50.7.137.90/iguide playpath=ahlndplmgbhavw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+rtmp://$OPT:rtmp-raw=rtmp://50.7.137.90/iguide playpath=ahlndplmgbhavw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
 
 #EXTINF:-1 tvg-logo="http://img.vayatele.com/2011/12/logo-discovery-max.JPG" group-title="DOCUMENTALES",DISCOVERY MAX
 http://88.12.17.244:4022/udp/239.0.0.32:8208
@@ -408,7 +417,7 @@ http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Antena3.jpg" group-title="TDT",Antena 3
-rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/stream-antena3_1
+rtmp://$OPT:rtmp-raw=rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/stream-antena3_1
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/CuatroTV.jpg" group-title="TDT",Cuatro
 http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-p.m3u8
@@ -423,22 +432,22 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_se
 http://www.9stream.com/embedplayer.php?width=650&height=400&channel=66&autoplay=true
 
 #EXTINF:-1 tvg-logo="TELEMADRID.png" group-title="TDT",Telemadrid
-rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= playpath=stream1?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20140807.1543/federatedVideoUI/BrightcovePlayer.swf?uid=1410613691359 live=1 pageUrl=http://www.telemadrid.es/?q=emision_en_directo
+rtmp://$OPT:rtmp-raw=rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= playpath=stream1?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20140807.1543/federatedVideoUI/BrightcovePlayer.swf?uid=1410613691359 live=1 pageUrl=http://www.telemadrid.es/?q=emision_en_directo
 
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-D14llVsXqYM/UhSc7gZ9W7I/AAAAAAAAAEk/KX6F2_6ILrA/s128/lanueve.jpg" group-title="TDT",NUEVE
 http://www.9stream.com/embedplayer.php?width=650&height=400&channel=96&autoplay=true
 
 #EXTINF:-1 tvg-logo="http://www.rtvcm.es/img/logos_cab_esq.gif" group-title="TDT",CCLM
-rtmp://teledifusion.tv/rtvcm playpath=rtvcmlive1 swfUrl=http://rtvcm.es/templates/marco/endirecto/player.swf
+rtmp://$OPT:rtmp-raw=rtmp://teledifusion.tv/rtvcm playpath=rtvcmlive1 swfUrl=http://rtvcm.es/templates/marco/endirecto/player.swf
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-FsmOBo723e4/URTeEyuvzvI/AAAAAAAAAaU/uhiopzO-3Wk/s1600/aragontv.jpg" group-title="TDT",ARAGON TV
-rtmp://aragontvlivefs.fplive.net/aragontvlive-live playpath=stream_normal_abt swfUrl=http://www.jaxe.net/player/player-old.swf?file=stream_normal_abt&type=flv&streamer=rtmp://aragontvlivefs.fplive.net/aragontvlive-live&autostart=true&stretching=exactfit&mute=false&skin=http://www.jaxe.net/player/dangdang.swf live=1 pageUrl=http://hispaniatelevision.com/TV/Autonomicas/aragontv.html
+rtmp://$OPT:rtmp-raw=rtmp://aragontvlivefs.fplive.net/aragontvlive-live playpath=stream_normal_abt swfUrl=http://www.jaxe.net/player/player-old.swf?file=stream_normal_abt&type=flv&streamer=rtmp://$OPT:rtmp-raw=rtmp://aragontvlivefs.fplive.net/aragontvlive-live&autostart=true&stretching=exactfit&mute=false&skin=http://www.jaxe.net/player/dangdang.swf live=1 pageUrl=http://hispaniatelevision.com/TV/Autonomicas/aragontv.html
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/canal-sur.jpg" group-title="TDT",Canal Sur
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-FBTIDG8gm44/UQhn3ZngGwI/AAAAAAAAAQU/lvbpmq1cAkc/s1600/canariastv.jpg" group-title="TDT",CANARIAS TV
-rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
+rtmp://$OPT:rtmp-raw=rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp://$OPT:rtmp-raw=rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
 
 #EXTINF:-1 tvg-logo="DIVINITY.png" group-title="TDT",Divinity
 http://88.12.17.244:4022/udp/239.0.0.48:8208
@@ -447,13 +456,13 @@ http://88.12.17.244:4022/udp/239.0.0.48:8208
 http://88.12.17.244:4022/udp/239.0.0.59:8208
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-6KjgIFmZPso/URTePBDgEBI/AAAAAAAAAa8/gaEXv34Lbj0/s1600/extremadura.jpg" group-title="TDT",EXTREMADURA TV
-rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo
+rtmp://$OPT:rtmp-raw=rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-xG8YrdDmOIw/URTeW71BwzI/AAAAAAAAAbc/svNP9ice7Tk/s1600/tvgalicia.jpg" group-title="TDT",GALICIA TV
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-smV3GlvkNWA/URTeRVfh8DI/AAAAAAAAAbE/cZqwOhwu_7o/s1600/la-otra.jpg" group-title="TDT",La Otra
-rtmp://laotralivefs.fplive.net:1935/laotralive-live?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=e.com/viewer/us20140724.1408/federatedVideoUI/BrightcovePlayer.swf?uid=1407185285484 live=1 pageUrl=http://www.telemadrid.es/emision_en_directo_laotra
+rtmp://$OPT:rtmp-raw=rtmp://laotralivefs.fplive.net:1935/laotralive-live?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=e.com/viewer/us20140724.1408/federatedVideoUI/BrightcovePlayer.swf?uid=1407185285484 live=1 pageUrl=http://www.telemadrid.es/emision_en_directo_laotra
 
 #EXTINF:-1 tvg-logo="TV3.png" group-title="TDT",TV3 
 http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
@@ -495,7 +504,7 @@ http://88.12.17.244:4022/udp/239.0.0.11:8208
 http://88.12.17.244:4022/udp/239.0.0.69:8208
 
 #EXTINF:-1 tvg-logo="http://www.tv14.net/logo/icon/tt/tvc_super3.jpg" group-title="INFANTIL",Super 3
-rtmp://tv-geoespanya-flashlivefs.fplive.net:1935/tv-geoespanya-flashlive-live?ovpfv=1.1/stream_ES_33D_FLV
+rtmp://$OPT:rtmp-raw=rtmp://tv-geoespanya-flashlivefs.fplive.net:1935/tv-geoespanya-flashlive-live?ovpfv=1.1/stream_ES_33D_FLV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kcwiLYU.jpg" group-title="INFANTIL",TOONCAST
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=239&lan=2&rows=40&f=.m3u8
@@ -504,58 +513,58 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=239&lan=2&ro
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=96&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Elche vs Celta Vigo (26sep/21:00h)
-rtmp://46.165.220.225/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGD   
+rtmp://$OPT:rtmp-raw=rtmp://46.165.220.225/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGD   
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Villarreal vs R.Madrid (27sep/16:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Barcelona vs Granada (27sep/18:00h)
-rtmp://207.244.89.21/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://207.244.89.21/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Atlético vs Sevilla (27sep/20:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Bilbao vs Eibar (27sep/22:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Levante vs Rayo (27sep/22:00h)
 http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Getafe vs Málaga (28sep/12:00h)
-rtmp://simpletvekip.hopto.org:1935/live playpath=sk31a token=#kurac#Od#Ovce#
+rtmp://$OPT:rtmp-raw=rtmp://simpletvekip.hopto.org:1935/live playpath=sk31a token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Depor vs Almeria (28sep/17:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Sociedad vs Valencia (28sep/19:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Cordoba vs Espanyol (28sep/21:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",ZENIT vs MONACO (1 OCT/18:00h)
-rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+rtmp://$OPT:rtmp-raw=rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Anderlecht VS B. Dortmund (1 OCT/20:45h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb4 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+rtmp://$OPT:rtmp-raw=rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb4 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Arsenal VS Galatasaray (1 OCT/20:45h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb9 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+rtmp://$OPT:rtmp-raw=rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb9 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",At. Madrid VS Juventus (1 OCT/20:45h)
 http://tinyurl.com/mxcpbb9
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Basilea VS Liverpool (1 OCT/20:45h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb7 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+rtmp://$OPT:rtmp-raw=rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb7 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Bayer Leverkusen VS Benfica (1 OCT/20:45h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb7 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+rtmp://$OPT:rtmp-raw=rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb7 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",FC Malmoe VS Olympiacos (1 OCT/20:45h)
-rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb4 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
+rtmp://$OPT:rtmp-raw=rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb4 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",PFC Ludogorets VS Real Madrid (1 OCT/20:45h)
-rtmp://207.244.67.24/iguide playpath=jf3o17phc5bsahq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://207.244.67.24/iguide playpath=jf3o17phc5bsahq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 1
 http://88.12.17.244:4022/udp/239.0.0.251:8208
