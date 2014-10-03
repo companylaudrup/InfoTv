@@ -312,16 +312,16 @@ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2012/11/Sport-Tv-4.png" group-title="INTERSPORT",SPORT-TV 4
 rtmpe://r.livecast.cc/rs/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 tvg-logo="Super Sport 1" group-title="INTERSPORT",Super Sport 1 (Albania)
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport1.jpg" group-title="INTERSPORT",Super Sport 1 (Albania)
 http://149.255.39.122/aasd/8733/index.m3u8
  
-#EXTINF:-1 tvg-logo="Super Sport 2" group-title="INTERSPORT",Super Sport 2 (Albania)
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport2.jpg" group-title="INTERSPORT",Super Sport 2 (Albania)
 http://149.255.39.122/aasd/8734/index.m3u8
  
-#EXTINF:-1 tvg-logo="Super Sport 3" group-title="INTERSPORT",Super Sport 3 (Albania)
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport3.jpg" group-title="INTERSPORT",Super Sport 3 (Albania)
 http://149.255.39.122/aasd/8741/index.m3u8
  
-#EXTINF:-1 tvg-logo="Super Sport 4" group-title="INTERSPORT",Super Sport 4 (Albania)
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport4.jpg" group-title="INTERSPORT",Super Sport 4 (Albania)
 http://149.255.39.122/aasd/8743/index.m3u8
 
 #EXTINF:-1 tvg-logo="AXN.png" group-title="SERIES",Axn
@@ -512,71 +512,56 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=239&lan=2&ro
 #EXTINF:-1 tvg-logo="WARNER BROSS.png" group-title="INFANTIL",WARNER BROSS
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=96&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Elche vs Celta Vigo (26sep/21:00h)
-rtmp://46.165.220.225/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGD   
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Getafe VS Córdoba (03oct/21:00h)
+rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Villarreal vs R.Madrid (27sep/16:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Valencia VS At. Madrid (04oct/16:00h)
+rtmp://$OPT:rtmp-raw=rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Barcelona vs Granada (27sep/18:00h)
-rtmp://207.244.89.21/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Rayo Vallecano VS FC Barcelona (04oct/18:00h)
+rtmp://$OPT:rtmp-raw=rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Atlético vs Sevilla (27sep/20:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Eibar VS Levante (04oct/20:00h)
+rtmp://$OPT:rtmp-raw=rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Bilbao vs Eibar (27sep/22:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Almería VS Elche (04oct/22:00h)
+rtmp://$OPT:rtmp-raw=rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Levante vs Rayo (27sep/22:00h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Málaga VS Granada (04oct/22:00h)
 http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Getafe vs Málaga (28sep/12:00h)
-rtmp://simpletvekip.hopto.org:1935/live playpath=sk31a token=#kurac#Od#Ovce#
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Sevilla FC VS Deportivo (05oct/12:00h)
+http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Depor vs Almeria (28sep/17:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Celta VS Villarreal (05oct/17:00h)
+rtmp://$OPT:rtmp-raw=rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Sociedad vs Valencia (28sep/19:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Espanyol VS Real Sociedad (05oct/19:00h)
+rtmp://$OPT:rtmp-raw=rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Cordoba vs Espanyol (28sep/21:00h)
-rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Real Madrid VS Athletic Club (05oct/21:00h)
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",ZENIT vs MONACO (1 OCT/18:00h)
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",CSKA Moscú VS Manchester City (21oct/18:00h)
 rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Anderlecht VS B. Dortmund (1 OCT/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",APOEL Nicosia VS PSG (21oct/20:45h)
 rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb4 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Arsenal VS Galatasaray (1 OCT/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",BATE Borisov VS Shakhtar Donetsk (21oct/20:45h)
 rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb9 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",At. Madrid VS Juventus (1 OCT/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Chelsea VS NK Maribor (21oct/20:45h)
 http://tinyurl.com/mxcpbb9
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Basilea VS Liverpool (1 OCT/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",FC Barcelona VS Ajax (21oct/20:45h)
 rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb7 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Bayer Leverkusen VS Benfica (1 OCT/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Oporto VS Athletic Club (21oct/20:45h)
 rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb7 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",FC Malmoe VS Olympiacos (1 OCT/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Roma VS Bayern Munich (21oct/20:45h)
 rtmp://185.39.9.66:1735/vod?token=play@141099813201756 playpath=tvb4 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",PFC Ludogorets VS Real Madrid (1 OCT/20:45h)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/uefa.jpg" group-title="UEFA",Schalke 04 VS Sporting Portugal (21oct/20:45h)
 rtmp://207.244.67.24/iguide playpath=jf3o17phc5bsahq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 1
-http://88.12.17.244:4022/udp/239.0.0.251:8208
-
-#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 2
-http://88.12.17.244:4022/udp/239.0.9.146:8208
-
-#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 3
-http://88.12.17.244:4022/udp/239.0.9.138:8208
-
-#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 4
-http://88.12.17.244:4022/udp/239.0.9.129:8208
-
-#EXTINF:-1 tvg-logo="DEPORTE.jpg" group-title="EVENTOS",DEPORTE 5
-http://88.12.17.244:4022/udp/239.0.0.42:8208
