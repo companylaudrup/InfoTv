@@ -55,7 +55,7 @@ rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to
 rtmp://207.244.67.24/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes
-http://live.freelivetv.tv:1935/live/deportespli64e8bdec62baa1a1ad33d2c6e0d9a8a0/playlist.m3u8
+http://tinyurl.com/qjakas9
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes
 rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
@@ -70,7 +70,7 @@ rtmpe://209.95.34.56:1935/live playpath=w-sp.tv-e1 swfUrl=http://www.hdcast.org/
 http://acabsw.doiptv.com/cs_golf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_TUap8Wjt9kg/TA--1LNWn7I/AAAAAAAAADY/J_2i14Nf_4g/s1600/canalplus_liga_hd.jpg" group-title="DEPORTES",C+ Liga
-rtmp://212.7.209.20/live playpath=cararal?id=74466 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK --live
+rtmp://95.211.186.156/iguide playpath=ysxj77na2vpbpxl swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_TUap8Wjt9kg/TA--1LNWn7I/AAAAAAAAADY/J_2i14Nf_4g/s1600/canalplus_liga_hd.jpg" group-title="DEPORTES",C+ Liga
 rtmpe://209.95.34.62:1935/live playpath=w-sp.tv-e3 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
@@ -113,13 +113,13 @@ rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE0IDE
 rtmp://212.7.209.16/live playpath=foxsportvip?id=74021 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK 
 
 #EXTINF:-1 tvg-logo="Fox Sports 2.png" group-title="DEPORTES",Fox Sports 2
-rtmp://109.123.116.154/live playpath=foxsport2vip?id=74022 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK 
+rtmp://212.7.209.6/live playpath=foxsport2vip?id=74022 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/foxsport2vip/1/620/382 Conn=S:OK 
 
 #EXTINF:-1 tvg-logo="http://lasala9.net/es/wp-content/uploads/2014/05/bmeaji1.jpg" group-title="DEPORTES",Gol TV
 rtmp://50.7.69.170/iguide playpath=h0e5yj2jixh8mky swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="GOL T.png" group-title="DEPORTES",Gol TV
-rtmp://46.28.50.124/live playpath=cararatag?id=74467 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/cararatag/1/645/395 Conn=S:OK --live
+rtmp://$OPT:rtmp-raw=rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
 http://88.12.17.244:4022/udp/239.0.0.17:8208
@@ -233,6 +233,9 @@ rtmp://46.246.124.16:1935/live playpath=nbatv swfUrl=http://www.renttcars.com/pl
 
 #EXTINF:-1 tvg-logo="http://www.time4tv.com/images/channel-logo/premier.jpg" group-title="INTERSPORT",Premier Sports
 rtmp://31.220.0.134:1935/live playpath=gewgegs2222 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=gewgegs2222&vw=650&vh=380 token=%ZZri(nKa@#Z
+
+#EXTINF:-1 tvg-logo="Sky Bundesliga" group-title="INTERSPORT",Sky Bundesliga 1
+rtmp://37.187.152.46:1935/live2/skybundesliga1?u=damirtest&p=test
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/sky_calcio.jpg" group-title="INTERSPORT",SKY CALCIO (ITA)
 rtmp://31.220.0.196:1935/live playpath=skycalciomain swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skycalciomain&vw=620&vh=490 token=%ZZri(nKa@#Z
