@@ -100,7 +100,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&ro
 rtmp://198.144.153.138:443/kuyo playpath=roval21?id=6a6c1ed92f1462cdc2217cdef7413d46&pid=39352e32322e3138372e3333 swfUrl=http://yukons.net/yplay2.swf live=1 pageUrl=http://yukons.net/embed/3732364637363631364333323331/5482bcbc78a85eff6ab02ce723bd7c02/620/382
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-NH9V9EIXDPg/TfOwmW5yiVI/AAAAAAAAAiw/9riAAWyLHBw/s1600/espn_deportes.jpg" group-title="DEPORTES",ESPN Deportes
-rtmp://184.75.214.114/edge/espn09212014 playpath=espn09212014 swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=espn09212014&width=600&height=400&domain=www.pirlotv.tv
+rtmp://137.63.71.18/edge/ESPN2 playpath=ESPN2 swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=ESPN2&width=600&height=400&domain=www.pirlotv.tv
 
 #EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="DEPORTES",Eurosport
 rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE0IDEwO jMwOjQ2IEFNJmhhc2hfdmFsdWU9K2tpVWVvbzlMdlZXZGp0TEl CM0VCdz09JnZhbGlkbWludXRlcz0yMA==/eurosport-hq

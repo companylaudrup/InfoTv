@@ -85,7 +85,7 @@ rtmp://185.39.9.66:1735/vod?token=play@141212474203457 playpath=tvb2 swfUrl=http
 rtmp://185.39.9.66:1735/vod?token=play@141088940205056 playpath=tvb3 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php
 
 #EXTINF:-1 tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sport-en-espanol.gif" group-title="DEPORTES",bein sports Ñ
-rtmp://cdn.streamcasttv.biz/liverepeat/ playpath=ZonaSports5768 swfUrl=http://streamcasttv.biz/jwplayer/jwplayer.flash.swf pageUrl=http://streamcasttv.biz/embed.php?file=ZonaSports5768&width=800&height=600live%3D1
+rtmp://162.253.128.114/edge/beinbackup playpath=beinbackup swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=beinbackup&width=600&height=400&domain=www.pirlotv.tv
 
 #EXTINF:-1 tvg-logo="DirectTv Sports .png" group-title="DEPORTES",DirectTv Sports 
 rtmp://188.254.54.210:1940/stream playpath=24684 swfUrl=http://goodgame.ru/files/tmp/ggplayer.swf live=1 pageUrl=http://goodgame.ru/player?24684
@@ -103,7 +103,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&ro
 rtmp://173.192.200.81:443/kuyo playpath=roval21?id=6a6c1ed92f1462cdc2217cdef7413d46&pid=39352e32322e3138372e3333 swfUrl=http://yukons.net/yplay2.swf live=1 pageUrl=http://yukons.net/embed/3732364637363631364333323331/ee8f374d4e15a4c05e51267bfd1a4dab/620/382 conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-NH9V9EIXDPg/TfOwmW5yiVI/AAAAAAAAAiw/9riAAWyLHBw/s1600/espn_deportes.jpg" group-title="DEPORTES",ESPN Deportes
-rtmp://50.7.78.138:443/live?0MwsPbKT4cNUELQsp015jURqRtwjP3sq playpath=live_vipracing swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://miscanalesdeportes.com/deportes/ESPN.html
+rtmp://137.63.71.18/edge/ESPN2 playpath=ESPN2 swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/player.php?chname=ESPN2&width=600&height=400&domain=www.pirlotv.tv
 
 #EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="DEPORTES",Eurosport
 rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE0IDEwO jMwOjQ2IEFNJmhhc2hfdmFsdWU9K2tpVWVvbzlMdlZXZGp0TEl CM0VCdz09JnZhbGlkbWludXRlcz0yMA==/eurosport-hq
