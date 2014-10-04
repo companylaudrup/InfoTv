@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Adultos",Adult Girl-Girl
+rtmp://live190.la3.origin.filmon.com:8086/live/246.high.stream
+#EXTINF:-1 group-title="Adultos",Bella Club
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1 group-title="Adultos",Bluebird 1
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+#EXTINF:-1 group-title="Adultos",Brasileirinhas
+rtmp://edge-05.livestreamcast.org:1935/Brasileirinhas/Brasileirinhas/Brasileirinhas swfUrl=http://livestreamcast.org/StrobeMediaPlayback.swf pageUrl=http://livestreamcast.org/embeds.php?c=Brasileirinhas&vw=468&vh=380
+#EXTINF:-1 group-title="Adultos",Daring TV
+http://208.122.3.2:9500
+#EXTINF:-1 group-title="Adultos",Delight Empire
+rtmp://live190.la3.origin.filmon.com:8086/live/244.high.stream
+#EXTINF:-1 group-title="Adultos",Dorcel TV
+rtmp://lm07.everyon.tv/ptv7/phd927
+#EXTINF:-1 group-title="Adultos",Erox HD
+http://spi-live.ercdn.net/spi/eroxhd_0_1/chunklist.m3u
+#EXTINF:-1 group-title="Adultos",Girls 4 U
+rtmp://live190.la3.origin.filmon.com:8086/live/247.high.stream
+#EXTINF:-1 group-title="Adultos",Hard Sex Movies
+http://208.122.3.2:9000;stream.nsv
+#EXTINF:-1 group-title="Adultos",Hustler HD
+http://79.174.32.203:1234/udp/234.5.2.250:1234
+#EXTINF:-1 group-title="Adultos",Pboy TV
+rtmp://lm07.everyon.tv:1935/ptv7/phd1003
+#EXTINF:-1 group-title="Adultos",Pink TV
+rtmp://live190.la3.origin.filmon.com:8086/live/245.high.stream
+#EXTINF:-1 group-title="Adultos",Play 19+
+rtmp://lm07.everyon.tv/ptv7/phd769
+#EXTINF:-1 group-title="Adultos",Playboy TV
+rtmp://lm07.everyon.tv/ptv7/phd499
+#EXTINF:-1 group-title="Adultos",Playboy TV
+rtmp://rtmp.videos.playboy.com/playboy playpath=mp4:/assets/videos/514494ac-7694-4580-8ea6-fb35b63b5ac0/9e170dfa-a6bd-457f-aa05-2306a9720234.mp4?nvb=201212Â swfUrl=http://static2.playboy.com/assets/common/img/flowplayer/flowplayer.commercial-rtmp-3.2.10.swf live=1 pageUrl=http://plus.playboy.com/videos/view/stacey-kay-bubble-booty-nude
+#EXTINF:-1 group-title="Adultos",Playboy TV Espanhol
+rtmp://50.7.133.154/iguide playpath=u5cbzsj8444896i swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_go.php?width=650&height=400&channel=10820&autoplay=true token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:-1 group-title="Adultos",Porn Pipe
+rtmp://lm07.everyon.tv/ptv7/phd501
+#EXTINF:-1 group-title="Adultos",Sex +18
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1 group-title="Adultos",Sexy Hot
+rtmpe://r.livecast.cc/rs//sexhot-dgk0d playpath=sexhot-dgk0d swfUrl=http://sharecast.to/player/jwplayer20.flash.swf live=1 pageUrl=http://sharecast.to/embed/sexhot-dgk0d/ conn=S:OK swfVfy=true live=true timeout=10
+#EXTINF:-1 group-title="Adultos",Spice TV
+rtmp://111.118.21.77:1935/ptv3 playpath=pld497 swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/spice-tv.php
+#EXTINF:-1 group-title="Adultos",Spice TV HD
+rtsp://111.118.21.77:1935/ptv3/phd497
+#EXTINF:-1 group-title="Adultos",X-Desire
+rtmp://lm07.everyon.tv/ptv7/phd1005
+#EXTINF:-1 group-title="Adultos",XXX
+rtmp://lm07.everyon.tv/ptv7/phd772
