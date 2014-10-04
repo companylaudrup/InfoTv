@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://www.canalbuzz.tv/img/canal_logo_buzzrojo.gif" group-title="CINE",BUZZ
-acestream://d2ba74f1af4f863a1b5cc70471bd06c136b6812f
+http://torrent-tv.ru/torrent-online.php?translation=9387
   	
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 1
 rtmp://46.28.50.124/live playpath=culebro1?id=74671 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
