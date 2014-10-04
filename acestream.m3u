@@ -64,7 +64,10 @@ acestream://a0998d89da826f54c1ebc403c90931b3323576dd
 acestream://33038aea963ea7c56cada26f8f20853822f4b406
      
 #EXTINF:-1,Motors TV
-acestream://34114b072c14275eb69079fbac57b33a70ca866e
+acestream://174846d73bd9f6d2d95f2b1108b5c12228148466
+
+#EXTINF:-1,Polsat Sport
+acestream://e0f72b35d39a77c1bf0a08b72433f32716a69aca
      
 #EXTINF:-1,Premier Sports
 acestream://9ad439a376d836f883e3f228cf844811c0507c2c
@@ -104,6 +107,9 @@ acestream://84968a5411410ec1897ac5a3c7361a78507c02af
 
 #EXTINF:-1,Setanta Sports
 acestream://b397bb134a0bf53e165c6e1bb771f6b942bd1ed3
+
+#EXTINF:-1,Viasat Motor
+acestream://8b75b12975d1e60a5dc70868334e57b632f4b138
 
 #EXTINF:-1,Hustler Blue
 acestream://c5c4075e08039f95aee7ff3ef6a1ef7c8522f665
