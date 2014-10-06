@@ -214,10 +214,7 @@ rtmpe://31.220.0.12/live playpath=dig1 swfUrl=http://www.dcast.tv/player6/jwplay
 rtmpe://31.220.0.12/live playpath=dig2 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=dig2&vw=690&vh=420
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport3.jpg" group-title="INTERSPORT",Digi Sport 3
-rtmpe://31.220.0.12/live playpath=sport11 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=sport11&vw=690&vh=420
-
-#EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="INTERSPORT",Eurosport
-rtmp://31.220.0.103:1935/live/eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmpe://31.220.0.12/live playpath=sport11 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=sport11&vw=690&vh=420#EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="INTERSPORT",Eurosporttmp://31.220.0.103:1935/live/eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="EUROSPORT 2" group-title="INTERSPORT",Eurosport 2
 rtmp://31.220.0.103:1935/live/eurs2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
@@ -225,11 +222,17 @@ rtmp://31.220.0.103:1935/live/eurs2 pageUrl=http://www.flashtv.co/ token=%ZZri(n
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/fightbox.jpg" group-title="INTERSPORT",FIGHT BOX
 http://202.75.23.37/live/ch20/03.m3u8
 
+#EXTINF:-1 tvg-logo="fight sport.png" group-title="INTERSPORT",Fight Sport
+http://202.75.23.37/live/ch20/03.m3u8
+
+#EXTINF:-1 tvg-logo="Combate.jpg" group-title="INTERSPORT",Combate
+rtmp://l.xuscacamusca.se/r/ playpath=ch003435 swfUrl=http://xuscacamusca.se/5cadcd79724b71d3b562f6.../player1.swf live=1 pageUrl=http://xuscacamusca.se/
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/mlb.jpg" group-title="INTERSPORT",MLB NETWORK
 rtmp://173.192.81.176:443/liverepeater playpath=164461 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=164461&width=620&height=490 token=#atd%#$ZH
 
 #EXTINF:-1 tvg-logo="http://www.time4tv.com/images/channel-logo/nbatv.jpg" group-title="INTERSPORT",NBA TV
-rtmp://46.246.124.16:1935/live playpath=nbatv swfUrl=http://www.renttcars.com/player.swf live=1 pageUrl=http://www.cndhlsstream.pw/embed.php?channel=nbatv&vw=580&vh=390&domain=www.cndhlsstream.pw
+http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.time4tv.com/images/channel-logo/premier.jpg" group-title="INTERSPORT",Premier Sports
 rtmp://31.220.0.134:1935/live playpath=gewgegs2222 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=gewgegs2222&vw=650&vh=380 token=%ZZri(nKa@#Z
@@ -365,7 +368,7 @@ http://tnt.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel15/index.m3u8
 http://freetvcast.pw/embed.php?a=218&id=&width=650&height=400&autostart=true&strech
 
 #EXTINF:-1 tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/bio-biography_channel-logo.jpg" group-title="DOCUMENTALES",BIO
-rtmp://test.freelivetv.tv/live playpath=biopontucanal token=#ed%h0#w@1 swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://flashstreaming.mobi/
+http://acabsw.doiptv.com/cs_bio/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="ANIMAL PLANET.png" group-title="DOCUMENTALES",ANIMAL PLANET
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&rows=40&f=.m3u8
@@ -455,10 +458,10 @@ http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevi
 rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
 
 #EXTINF:-1 tvg-logo="DIVINITY.png" group-title="TDT",Divinity
-http://88.12.17.244:4022/udp/239.0.0.48:8208
+http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="ENERGY.png" group-title="TDT",Energy
-http://88.12.17.244:4022/udp/239.0.0.59:8208
+http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-6KjgIFmZPso/URTePBDgEBI/AAAAAAAAAa8/gaEXv34Lbj0/s1600/extremadura.jpg" group-title="TDT",EXTREMADURA TV
 rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo
@@ -475,6 +478,9 @@ http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
 #EXTINF:-1 tvg-logo="baby tv.png" group-title="INFANTIL",baby tv
 http://babytv.akamai.nmp.hls.emision.dof6.com/hls/live/201775/channelpc10/index.m3u8
 
+#EXTINF:-1 tvg-logo="boomerang.png" group-title="INFANTIL",boomerang
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
+
 #EXTINF:-1 tvg-logo="Bloomberg .png" group-title="INFANTIL",Bloomberg 
 http://88.12.17.244:4022/udp/239.0.0.29:8208
 
@@ -486,10 +492,6 @@ http://88.12.17.244:4022/udp/239.0.0.80:8208
 
 #EXTINF:-1 tvg-logo="CARTOON NETWORK.png" group-title="INFANTIL",Cartoon Network
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 tvg-logo="BOOMERANG.png" group-title="INFANTIL",BOOMERANG
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
-
 #EXTINF:-1 tvg-logo="DISCOVERY KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=195&lan=2&rows=40&f=.m3u8
 
@@ -499,7 +501,7 @@ http://disney.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel11/index.m3
 #EXTINF:-1 tvg-logo="http://massmail.disneyinternational.com/DOL/es/Disney_Cinemagic_Nemo_25_04_2011/images/mass_mail_cinemagic_10.jpg" group-title="INFANTIL",Disney Cinemagic
 http://cinemagic.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel19/index.m3u8
 
-#EXTINF:-1 tvg-logo="DISNEY JUNIOR.png" group-title="INFANTIL",Disney Junior
+#EXTINF:-1 tvg-logo="DISNEY JUNIOR.png" group-title="INFANTIL",Nick Junior
 http://nickjr.level3.nmp.hls.emision.dof6.com/sogecable/channel45/index.m3u8
 
 #EXTINF:-1 tvg-logo="Disney XD.png" group-title="INFANTIL",Disney XD
