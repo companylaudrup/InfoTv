@@ -10,13 +10,13 @@ http://dpluspc-i.akamaihd.net/hls/live/201766/channelpc1/05.m3u8
 http://cp2.level3.nmp.hls.emision.dof6.com/sogecable/channel33/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vertvonline.xtrweb.com/logostv/CANAL%20+%20ACCION.jpg" group-title="CINE",C+ Acción
-http://acabsw.doiptv.com/cs_canal_accion/playlist.m3u8
+http://xurl.es/yspbc
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-7Yr_GkAHf2g/UQiE0fABa9I/AAAAAAAAA-E/2UaCZsS7rJA/s320/comediahd.jpg" group-title="CINE",C+ Comedia
-http://acabsw.doiptv.com/cs_comedia/playlist.m3u8
+http://linksito.com/4ddc
 
 #EXTINF:-1 tvg-logo="C+ DCine.png" group-title="CINE",C+ DCine
-http://acabsw.doiptv.com/cs_canal_dcine/playlist.m3u8
+http://linksito.com/4ddd
 
 #EXTINF:-1 tvg-logo="C+ Toros.png" group-title="CINE",C+ Toros
 http://cptoros.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel10/index.m3u8 
@@ -37,7 +37,7 @@ http://vaughnlive.tv/embed/video/mega_extremo?viewers=true&watermark=left&autopl
 rtmp://46.165.251.99/live playpath=hhhhbo?id=211931 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/hhhhbo/1/620/382 Conn=S:OK
 
 #EXTINF:-1 tvg-logo="http://www.vootar.com/imgs/elementos/1248207222_Canal%20Hollywood.jpg" group-title="CINE",Hollywood
-http://88.12.17.244:4022/udp/239.0.0.16:8208
+http://xurl.es/do-p
 
 #EXTINF:-1 tvg-logo="MAX PRIME.png" group-title="CINE",MAX PRIME
 rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?/59hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf pageUrl=http://75.126.217.6/videoteca/play live=1
@@ -383,7 +383,7 @@ http://cosmo.level3.nmp.hls.emision.dof6.com/sogecable/channel36/index.m3u8
 http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8
 
 #EXTINF:-1 tvg-logo="DISCOVERY.png" group-title="DOCUMENTALES",Discovery Channel
-rtmp://50.7.137.90/iguide playpath=ahlndplmgbhavw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+rtmp://50.7.137.90/iguide playpath=ahlndplmgbhavw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://img.vayatele.com/2011/12/logo-discovery-max.JPG" group-title="DOCUMENTALES",DISCOVERY MAX
 http://88.12.17.244:4022/udp/239.0.0.32:8208
@@ -395,7 +395,7 @@ http://gh24hios-lh.akamaihd.net/i/telecinco/gh24hios_1@132501/index_350_av-b.m3u
 http://historia.level3.nmp.hls.emision.dof6.com/sogecable/channel37/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://radioteve.com/tele/europa/Espana/logo/hogarutil.jpg" group-title="DOCUMENTALES",HOGAR UTIL
-http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.3.0&fp=WIN%2013,0,0,214&r=KYIBP&g=NUHCOAIYLYKE  http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001&lineUpId=&pubId=2385340627001&playerId=2418571368001&affiliateId=&v=3.1.0&fp=WIN 11,9,900,117&r=YCNRA&g=NMDHLHVDQHIT
+http://brightcove03-f.akamaihd.net/H...g=LBXIUFRGSVGB
 
 #EXTINF:-1 tvg-logo="NATIONAL GEOGRAPHIC.png" group-title="DOCUMENTALES",Nat Geographic
 http://natgeo.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel18/05.m3u8
@@ -434,13 +434,13 @@ http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8?s
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2a6xbc718Ak/UhSc8_OXRhI/AAAAAAAAAFA/7JRlZLt2zBo/s254/lasiete.jpg" group-title="TDT",LA SIETE
-http://www.9stream.com/embedplayer.php?width=650&height=400&channel=66&autoplay=true
+rtmp://50.7.133.106/iguide playpath=wjr34hydgycamqj swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="TELEMADRID.png" group-title="TDT",Telemadrid
 rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= playpath=stream1?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20140807.1543/federatedVideoUI/BrightcovePlayer.swf?uid=1410613691359 live=1 pageUrl=http://www.telemadrid.es/?q=emision_en_directo
 
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-D14llVsXqYM/UhSc7gZ9W7I/AAAAAAAAAEk/KX6F2_6ILrA/s128/lanueve.jpg" group-title="TDT",NUEVE
-http://www.9stream.com/embedplayer.php?width=650&height=400&channel=96&autoplay=true
+rtmp://50.7.189.2/iguide playpath=hrrtomjwtm4r2ht swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://www.rtvcm.es/img/logos_cab_esq.gif" group-title="TDT",CCLM
 rtmp://teledifusion.tv/rtvcm playpath=rtvcmlive1 swfUrl=http://rtvcm.es/templates/marco/endirecto/player.swf
