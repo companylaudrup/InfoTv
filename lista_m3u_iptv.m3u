@@ -124,7 +124,7 @@ rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to
 rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
-rtmp://95.211.168.161/vl/_definst_ playpath=putadons4 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
+http://sportmania.level3.nmp.hls.emision.dof6.com/sogecable/channel39/index.m3u8
 
 #EXTINF:-1 tvg-logo="TELEDEPORTE.png" group-title="DEPORTES",Teledeporte
 http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
@@ -347,7 +347,7 @@ t=400&channel=123&autoplay=true
 http://fox.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel16/index.m3u8
 
 #EXTINF:-1 tvg-logo="FOX CRIME.png" group-title="SERIES",Fox Crime
-http://xurl.es/pirricrime
+http://foxcrime.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel21/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.pontucanal.mobi/images/logos/neox.jpg" group-title="SERIES",Neox
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
@@ -497,7 +497,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=195&lan=2&ro
 http://disney.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel11/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://massmail.disneyinternational.com/DOL/es/Disney_Cinemagic_Nemo_25_04_2011/images/mass_mail_cinemagic_10.jpg" group-title="INFANTIL",Disney Cinemagic
-http://88.12.17.244:4022/udp/239.0.0.9:8208
+http://cinemagic.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel19/index.m3u8
 
 #EXTINF:-1 tvg-logo="DISNEY JUNIOR.png" group-title="INFANTIL",Disney Junior
 http://nickjr.level3.nmp.hls.emision.dof6.com/sogecable/channel45/index.m3u8

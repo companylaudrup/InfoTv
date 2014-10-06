@@ -121,7 +121,7 @@ rtmp://207.244.67.7/iguide playpath=mph5xc63zkthgh9 swfUrl=http://www.iguide.to/
 rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
-rtmp://95.211.168.161/vl/_definst_ playpath=putadons4 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
+http://sportmania.level3.nmp.hls.emision.dof6.com/sogecable/channel39/index.m3u8
 
 #EXTINF:-1 tvg-logo="TELEDEPORTE.png" group-title="DEPORTES",Teledeporte
 http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
@@ -415,34 +415,34 @@ http://overon-apple-live.adaptive.level3.net/apple/overon/channel06/index.m3u8
 http://viajar.level3.nmp.hls.emision.dof6.com/sogecable/channel42/index.m3u8
 
 #EXTINF:-1 tvg-logo="LA 1.png" group-title="TDT",LA 1
-http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+http://acabsw.doiptv.com/cs_canal_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="LA 2.png" group-title="TDT",LA 2
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+http://acabsw.doiptv.com/cs_canal_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Antena3.jpg" group-title="TDT",Antena 3
 rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/stream-antena3_1
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/CuatroTV.jpg" group-title="TDT",Cuatro
-http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-p.m3u8
+http://acabsw.doiptv.com/cs_calle_13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Tele5.jpg" group-title="TDT",Telecinco
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8?sd=10&rebase=on
+http://acabsw.doiptv.com/cs_comedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.kiddyminimodel.es/blog/wp-content/uploads/2013/10/laSexta.jpg" group-title="TDT",La Sexta
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+http://acabsw.doiptv.com/cs_canal_dcine/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2a6xbc718Ak/UhSc8_OXRhI/AAAAAAAAAFA/7JRlZLt2zBo/s254/lasiete.jpg" group-title="TDT",LA SIETE
 http://www.9stream.com/embedplayer.php?width=650&height=400&channel=66&autoplay=true
 
 #EXTINF:-1 tvg-logo="TELEMADRID.png" group-title="TDT",Telemadrid
-rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= playpath=stream1?videoId=3706676620001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20140807.1543/federatedVideoUI/BrightcovePlayer.swf?uid=1410613691359 live=1 pageUrl=http://www.telemadrid.es/?q=emision_en_directo
+http://acabsw.doiptv.com/cs_tnt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-D14llVsXqYM/UhSc7gZ9W7I/AAAAAAAAAEk/KX6F2_6ILrA/s128/lanueve.jpg" group-title="TDT",NUEVE
 http://www.9stream.com/embedplayer.php?width=650&height=400&channel=96&autoplay=true
 
 #EXTINF:-1 tvg-logo="http://www.rtvcm.es/img/logos_cab_esq.gif" group-title="TDT",CCLM
-rtmp://teledifusion.tv/rtvcm playpath=rtvcmlive1 swfUrl=http://rtvcm.es/templates/marco/endirecto/player.swf
+http://acabsw.doiptv.com/cs_tnt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-FsmOBo723e4/URTeEyuvzvI/AAAAAAAAAaU/uhiopzO-3Wk/s1600/aragontv.jpg" group-title="TDT",ARAGON TV
 rtmp://aragontvlivefs.fplive.net/aragontvlive-live playpath=stream_normal_abt swfUrl=http://www.jaxe.net/player/player-old.swf?file=stream_normal_abt&type=flv&streamer=rtmp://aragontvlivefs.fplive.net/aragontvlive-live&autostart=true&stretching=exactfit&mute=false&skin=http://www.jaxe.net/player/dangdang.swf live=1 pageUrl=http://hispaniatelevision.com/TV/Autonomicas/aragontv.html
@@ -500,7 +500,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=195&lan=2&ro
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://massmail.disneyinternational.com/DOL/es/Disney_Cinemagic_Nemo_25_04_2011/images/mass_mail_cinemagic_10.jpg" group-title="INFANTIL",Disney Cinemagic
-http://88.12.17.244:4022/udp/239.0.0.9:8208
+http://cinemagic.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel19/index.m3u8
 
 #EXTINF:-1 tvg-logo="DISNEY JUNIOR.png" group-title="INFANTIL",Disney Junior
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=204&lan=2&rows=40&f=.m3u8
