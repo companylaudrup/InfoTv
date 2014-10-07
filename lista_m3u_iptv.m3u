@@ -123,6 +123,9 @@ rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to
 #EXTINF:-1 tvg-logo="GOL T.png" group-title="DEPORTES",Gol TV
 rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
+#EXTINF:-1 tvg-logo="GOL T.png" group-title="DEPORTES",Gol TV (Lat)
+http://www.ienlace-tv.com:1935/live12/livestream1.sdp/CampeonaTicoTV1.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
 http://sportmania.level3.nmp.hls.emision.dof6.com/sogecable/channel39/index.m3u8
 
@@ -139,19 +142,25 @@ http://202.75.23.37:1400/live/ch20/03.m3u8
 rtmp://95.211.214.58:1935/live playpath=ar11a swfUrl=http://94.75.232.71/jarani.player.swf live=1 pageUrl=http://94.75.232.71/live.html?stream=ar11a&width=650&height=470
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 1
-rtmp://94.75.232.71:1935/live playpath=ar11a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/index.php?id=ar11a token=#kurac#Od#Ovce#
+http://91.194.84.114/sreten/sreten/38.ch
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 2
-rtmp://94.75.232.71:1935/live playpath=ar21a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/index.php?id=ar21a token=#kurac#Od#Ovce#
+http://91.194.84.114/sreten/sreten/39.ch
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 3
-rtmp://94.75.232.71:1935/live playpath=ar31a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/index.php?id=ar31a token=#kurac#Od#Ovce#
+http://91.194.84.114/sreten/sreten/40.ch
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 4
-rtmp://94.75.232.71:1935/live playpath=ar41a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/index.php?id=ar41a token=#kurac#Od#Ovce#
+http://91.194.84.114/sreten/sreten/41.ch
 
 #EXTINF:-1 tvg-logo="http://livestreamhunter.org/images/logos/arena5.jpg" group-title="INTERSPORT",Arena Sport 5
 rtmp://94.75.232.71:1935/live playpath=ar51a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/index.php?id=ar51a token=#kurac#Od#Ovce#
+
+#EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5535/11876015746_63973be0ff_o.jpg" group-title="INTERSPORT",bein sports 1 (FRA)
+http://se-2.se.beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipadstream800beinsport1.m3u8
+
+#EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5497/11875607834_539a170882_o.jpg" group-title="INTERSPORT",bein sports 2 (FRA)
+http://beinsport2-hls.live.numericable.tv/live/hls/beinsport2/ipad.m3u8
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5535/11876015746_63973be0ff_o.jpg" group-title="INTERSPORT",bein sports 1
 http://202.75.23.37/live/ch18/03.m3u8
@@ -299,7 +308,7 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 http://83.139.104.101/Content/HLS/Live/Channel(Sk_1)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="Sport Klub 2.png" group-title="INTERSPORT",Sport Klub 2
-http://balkanstream.com/stream/sportklub2hr/pajd012/38e419243
+http://188.138.9.236:8000/YU_sportklub2hr?u=pajd012:p=38e419243
  
 #EXTINF:-1 tvg-logo="Sport Klub 3.png" group-title="INTERSPORT",Sport Klub 3
 http://83.139.104.101/Content/HLS/Live/Channel(Sk_3)/index.m3u8
