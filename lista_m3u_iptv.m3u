@@ -79,7 +79,7 @@ http://cpgolf.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel4/index.m3u
 http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_TUap8Wjt9kg/TA--1LNWn7I/AAAAAAAAADY/J_2i14Nf_4g/s1600/canalplus_liga_hd.jpg" group-title="DEPORTES",C+ Liga
-rtmp://207.244.77.15/iguide playpath=ysxj77na2vpbpxl swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=580&height=380&channel=21924&autoplay=true token=#ed%h0#w18623jsda6523lDGDdmo
+http://cpligacamp.nmp.hls.emision.dof6.com/hls/live/201768/channelpc3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://lacajatv.tv/wp-content/uploads/2014/03/canal_plus_liga_campeones1.jpg" group-title="DEPORTES",C+ Liga de Campeones
 http://cpligacamp.nmp.hls.emision.dof6.com/hls/live/201768/channelpc3/index.m3u8
@@ -230,6 +230,9 @@ rtmpe://31.220.0.12/live playpath=dig2 swfUrl=http://www.dcast.tv/player6/jwplay
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport3.jpg" group-title="INTERSPORT",Digi Sport 3
 rtmpe://31.220.0.12/live playpath=sport11 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=sport11&vw=690&vh=420#EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="INTERSPORT",Eurosporttmp://31.220.0.103:1935/live/eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
+#EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="INTERSPORT",Eurosport
+rtmp://31.220.0.103:1935/live/eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="EUROSPORT 2" group-title="INTERSPORT",Eurosport 2
 rtmp://31.220.0.103:1935/live/eurs2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
@@ -530,6 +533,7 @@ http://88.12.17.244:4022/udp/239.0.0.80:8208
 
 #EXTINF:-1 tvg-logo="CARTOON NETWORK.png" group-title="INFANTIL",Cartoon Network
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
+
 #EXTINF:-1 tvg-logo="DISCOVERY KIDS.png" group-title="INFANTIL",DISCOVERY KIDS
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=195&lan=2&rows=40&f=.m3u8
 
