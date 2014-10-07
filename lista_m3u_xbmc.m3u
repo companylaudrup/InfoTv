@@ -91,7 +91,7 @@ rtmp://109.123.126.66/live playpath=cvbtyu?id=74908 swfUrl=http://www.ucaster.eu
 rtmp://188.254.54.210:1940/stream playpath=24684 swfUrl=http://goodgame.ru/files/tmp/ggplayer.swf live=1 pageUrl=http://goodgame.ru/player?24684
 
 #EXTINF:-1 tvg-logo="ESPN HD.png" group-title="DEPORTES",ESPN HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
+http://acabsw.doiptv.com/sky_espn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epltalk.com/wp-content/uploads/2009/09/espn2-logo.jpg" group-title="DEPORTES",ESPN 2
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
@@ -256,22 +256,22 @@ rtmp://31.220.0.133:1935/live playpath=skyita2new pageUrl=http://www.flashtv.co/
 rtmp://31.220.0.133:1935/live playpath=sky03itanew swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sky03itanew&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wdlAQctyGF8/U36lIopkuEI/AAAAAAAAARo/gIldfGU6mgs/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 1
-rtmp://94.102.56.157:443/liverepeater playpath=166654 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=166654&width=620&height=490 token=#atd%#$ZH
+http://acabsw.doiptv.com/sky_sport_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_siFbFpAHko/U36lYEFEFlI/AAAAAAAAARw/jvenSLIIQYY/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 2
-rtmpe://46.246.124.28:1935/live/ playpath=sskys2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+http://acabsw.doiptv.com/sky_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5RG9uacR3mg/U36lhS_HaPI/AAAAAAAAAR4/APixD08cj44/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 3
-rtmp://62.210.187.68:443/liverepeater playpath=166653 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=166653&width=620&height=490 token=#atd%#$ZH
+http://acabsw.doiptv.com/sky_sport_3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--IEwJB9AA8s/U36lvfVSwjI/AAAAAAAAASA/JjC6zgX1QOQ/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 4
-rtmpe://46.246.124.28:1935/live/ playpath=sskys4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+http://acabsw.doiptv.com/sky_sport_4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg" group-title="INTERSPORT",Sky Sports 5
-rtmpe://46.246.124.28:1935/live/ playpath=sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+http://acabsw.doiptv.com/sky_sport_5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SkySportsF1.jpg" group-title="INTERSPORT",Sky Sports F1
-rtmpe://46.246.124.28:1935/live/ playpath=sskysf1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+http://acabsw.doiptv.com/sky_sport_f1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%201.jpg" group-title="INTERSPORT",Sport 1
 http://77.90.73.1:4022/udp/233.136.41.45:1234
