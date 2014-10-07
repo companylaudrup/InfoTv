@@ -21,6 +21,9 @@ http://linksito.com/4ddd
 #EXTINF:-1 tvg-logo="C+ Toros.png" group-title="CINE",C+ Toros
 http://cptoros.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel10/index.m3u8 
 
+#EXTINF:-1 tvg-logo="C+ Xtra.jpg" group-title="CINE",C+ Xtra
+http://cpxtra.akamai.nmp.hls.emision.dof6.com/hls/live/201771/channelpc6/index.m3u8
+
 #EXTINF:-1 tvg-logo="CINEMAX.png" group-title="CINE",Cinemax
 rtmp://185.2.137.180/live<playpath>cinemax2021?id=15842 <swfUrl>http://www.janjua.tv/resources/scripts/eplayer.swf <pageUrl>http://www.janjua.tv/embedplayer/cinemax2021/1/600/385 Conn=S:OK --live
 
@@ -126,14 +129,17 @@ rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to
 #EXTINF:-1 tvg-logo="GOL T.png" group-title="DEPORTES",Gol Tv (Lat)
 http://www.ienlace-tv.com:1935/live12/livestream1.sdp/CampeonaTicoTV1.m3u8
 
+#EXTINF:-1 tvg-logo="Real Madrid Tv.png" group-title="DEPORTES",R.Madrid Tv
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
 http://sportmania.level3.nmp.hls.emision.dof6.com/sogecable/channel39/index.m3u8
 
 #EXTINF:-1 tvg-logo="TELEDEPORTE.png" group-title="DEPORTES",Teledeporte
 http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 tvg-logo="TVC DEPORTES.png" group-title="DEPORTES",Tvc Deportes
-rtmp://109.123.126.66/live playpath=tvccomp?id=72042 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/tvccomp/1/620/382 conn=S:OK --live
+#EXTINF:-1 tvg-logo="TYC SPORTS.png" group-title="DEPORTES",Tyc Sports
+http://usa.fankytv.com/live/tyc.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/UFC.jpg" group-title="DEPORTES",Ufc
 http://202.75.23.37:1400/live/ch20/03.m3u8
@@ -334,17 +340,30 @@ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2012/11/Sport-Tv-4.png" group-title="INTERSPORT",SPORT-TV 4
 rtmpe://r.livecast.cc/rs/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport1.jpg" group-title="INTERSPORT",Super Sport 1
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport1.jpg" group-title="INTERSPORT",Super Sport 1 (Albania)
 http://149.255.39.122/aasd/8733/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport2.jpg" group-title="INTERSPORT",Super Sport 2
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport2.jpg" group-title="INTERSPORT",Super Sport 2 (Albania)
 http://149.255.39.122/aasd/8734/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport3.jpg" group-title="INTERSPORT",Super Sport 3
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport3.jpg" group-title="INTERSPORT",Super Sport 3 (Albania)
 http://149.255.39.122/aasd/8741/index.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport4.jpg" group-title="INTERSPORT",Super Sport 4
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport4.jpg" group-title="INTERSPORT",Super Sport 4 (Albania)
 http://149.255.39.122/aasd/8743/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/pro%20sport%201.jpg" group-title="INTERSPORT",Pro Sports 1 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/pro%20sport%202.jpg" group-title="INTERSPORT",Pro Sports 2 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/pro%20sport%203.jpg" group-title="INTERSPORT",Pro Sports 3 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/pro%20sport%204.jpg" group-title="INTERSPORT",Pro Sports 4 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="AXN.png" group-title="SERIES",Axn
 http://axn.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel6/index.m3u8
