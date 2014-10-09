@@ -578,7 +578,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=96&lan=2&row
 http://mtv.level3.nmp.hls.emision.dof6.com/sogecable/channel41/index.m3u8
  
 #EXTINF:-1 tvg-logo="Mtv Music.png" group-title="MUSICA"",Mtv Music.
-http://83.139.104.101/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+rtmp://82.192.95.75:1935/vl/_definst_ playpath=Canal44Zaragoza swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=Canal44Zaragoza&vw=400&vh=290&domain=www.canal44.tv
  
 #EXTINF:-1 tvg-logo="Mtv Dance.png" group-title="MUSICA",Mtv Dance
 http://90.189.183.223:1234/udp/233.7.70.207:5000
@@ -587,10 +587,10 @@ http://90.189.183.223:1234/udp/233.7.70.207:5000
 http://202.75.23.37/live/ch50/03.m3u8
  
 #EXTINF:-1 tvg-logo="Mtv Rocks.png" group-title="MUSICA",Mtv Rocks
-http://90.189.183.223:1234/udp/233.7.70.209:5000
+rtmp://94.242.221.176:1937/live/stream166
  
 #EXTINF:-1 tvg-logo="Mtv hits.png" group-title="MUSICA",Mtv Hits
-http://90.189.183.223:1234/udp/233.7.70.208:5000
+rtmp://94.242.221.176:1937/live/ playpath=stream153 swfUrl=http://www.portaltv.ro/jw6/jwplayer.flash.swf live=1
 
 #EXTINF:-1 tvg-logo="Mtv idol.png" group-title="MUSICA",MTV Idol
 http://mtvidol-hls.live.numericable.tv/live/hls/mtvidol/ipad.m3u8
@@ -616,32 +616,44 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&pr
 #EXTINF:-1 tvg-logo="Best Music.png" group-title="MUSICA",Best Music Tv
 rtmp://stream.smcloud.net/live2/best/best_720p
  
-#EXTINF:-1 tvg-logo="Eska rock.png" group-title="MUSICA",Eska Rock Tv
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
- 
-#EXTINF:-1 tvg-logo="Jazz.png" group-title="MUSICA",Jazz
-rtmp://149.11.34.78/live/jazztv.stream
- 
-#EXTINF:-1 tvg-logo="Jazz and Blues.png" group-title="MUSICA",Jazz & Blues Tv
-rtmp://mi2.gv.filmon.com:8086/live/530.high.stream
+#EXTINF:-1 tvg-logo="One Classic.png" group-title="MUSICA",One Classic
+rtmp://91.201.78.3:1935/live/ playpath=classicshd swfUrl=http://m.indostreamix.com/player/jwplayer.flash.swf live=1 pageUrl=http://dex-tv.blogspot.com.es/2013/11/one-hd-classics.html --live
 
-#EXTINF:-1 tvg-logo="Magic.png" group-title="MUSICA"",Magic.
+#EXTINF:-1 tvg-logo="One Dance.png" group-title="MUSICA",One Dance
+rtmp://91.201.78.3:1935/live/ playpath=dancehd swfUrl=http://www.useetv.com/VIEW/themes/red/js/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://dex-tv.blogspot.com.es/2013/11/one-hd-dance.html --live
+
+#EXTINF:-1 tvg-logo="One Jazz.png" group-title="MUSICA",One Jazz
+rtmp://91.201.78.3:1935/live/ playpath=jazzhd swfUrl=http://m.indostreamix.com/player/jwplayer.flash.swf live=1 pageUrl=http://dex-tv.blogspot.com.es/2013/11/one-hd-jazz.html --live
+
+#EXTINF:-1 tvg-logo="One Pop.png" group-title="MUSICA",One Pop
+rtmp://91.201.78.3:1935/live/ playpath=pophd swfUrl=http://www.useetv.com/VIEW/themes/red/js/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://dex-tv.blogspot.com.es/2013/11/one-hd-pop.html --live
+
+#EXTINF:-1 tvg-logo="One rock.png" group-title="MUSICA",One Rock 
+rtmp://91.201.78.3:1935/live/ playpath=rockhd swfUrl=http://www.useetv.com/VIEW/themes/red/js/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://dex-tv.blogspot.com.es/2013/11/one-hd-rock.html --live
+
+#EXTINF:-1 tvg-logo="Radio 105.png" group-title="MUSICA"",Radio 105
+rtmp://fms.105.net/live/105Test1
+
+#EXTINF:-1 tvg-logo="Stage Tv.png" group-title="MUSICA"",Stage Tv
+rtmp://149.11.34.6/live/stagetv.stream
+
+#EXTINF:-1 tvg-logo="Telemusica.png" group-title="MUSICA"",Telemusica
+rtsp://190.0.28.154:1935/live/S9bgB8dJmS
+
+#EXTINF:-1 tvg-logo="Q-Music.png" group-title="MUSICA"",Q-Music
+rtmp://vmmaeventlivefs.fplive.net:1935/vmmaeventlive-live/vmma.radio-sdh
+
+#EXTINF:-1 tvg-logo="Urban Tv.png" group-title="MUSICA"",Urban Tv
+http://82.76.249.77:80/utvedge/utvlive/index.m3u8
+
+#EXTINF:-1 tvg-logo="Magic.png" group-title="MUSICA"",Magic
 http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
  
 #EXTINF:-1 tvg-logo="Smash Hits.png" group-title="MUSICA",Smash Hits
 http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
  
-#EXTINF:-1 tvg-logo="Mezzo.png" group-title="MUSICA",MeZZo
-http://hls01-03.az.myvideo.az/hls-live/livepkgr/mezzo/mezzo/mezzo.m3u8?mfamwuUL6IpOXDJ8WwxJ
- 
 #EXTINF:-1 tvg-logo="Legends.png" group-title="MUSICA",Music Legends
 rtmp://mi2.gv.filmon.com:8086/live/257.high.stream
- 
-#EXTINF:-1 tvg-logo="Now Music.png" group-title="MUSICA",Now Music
-http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="Live Cassic.png" group-title="MUSICA",Live Cassic
-http://91.201.78.3:1935/live/classicshd/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="Planet pop.png" group-title="MUSICA",Planet pop
 http://cdn.live.simplestream.com/D6I0S4IWX8O1NJDNBTRE/3/playlist-limelight.m3u8
@@ -665,10 +677,13 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
  
 #EXTINF:-1 tvg-logo="Virgin.png" group-title="MUSICA",Virgin 1
-rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.google.com/Virgin 1
+rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://www.cracketzaa.tv/canal/virgintv.php?width=711&height=410
 
-#EXTINF:-1 tvg-logo="Heat.png" group-title="MUSICA",heat
-http://csm-e.cds1.yospace.com/csm/live/86561584.m3u8
+#EXTINF:-1 tvg-logo="Vita Tv.png" group-title="MUSICA",Vita Tv
+rtmp://rtmp.infomaniak.ch/livecast/vitatv
+
+#EXTINF:-1 tvg-logo="Heart.png" group-title="MUSICA",Heart
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
  
 #EXTINF:-1 tvg-logo="The box.png" group-title="MUSICA",The Box
 http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
@@ -684,9 +699,51 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&prot
  
 #EXTINF:-1 tvg-logo="CAPITAL TV.png" group-title="MUSICA",Capital TV
 rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1 tvg-logo="Delux Music.png" group-title="MUSICA",Delux Music
+rtmp://149.11.34.6/live/deluxetvmusic.stream
+
+#EXTINF:-1 tvg-logo="Polo Tv.png" group-title="MUSICA",Polo Tv
+rtmp://stream.smcloud.net/live/polotv
+
+#EXTINF:-1 tvg-logo="For Music.png" group-title="MUSICA",For Music
+rtmp://194.116.73.52/quartaretetv1/formusicweb
+
+#EXTINF:-1 tvg-logo="Fresh Tv.png" group-title="MUSICA",Fresh Tv
+rtmp://www.planeta-online.tv:1936/live/channel_4.flv pageUrl=http://www.planeta-online.tv swfUrl=http://www.planeta-online.tv/planeta_player.swf?ver=871
+
+#EXTINF:-1 tvg-logo="Ibiza On.png" group-title="MUSICA",Ibiza On Tv
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+
+#EXTINF:-1 tvg-logo="Kiss Tv.png" group-title="MUSICA",Kiss Tv
+rtmp://tst.es.flash.glb.ipercast.net:1935/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf live=1 pageUrl=http://www.kisstelevision.es/
+
+#EXTINF:-1 tvg-logo="Melody.png" group-title="MUSICA",Melody
+rtmp://190.0.28.154:1935/live/ playpath=pqDyhE3GWS swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.melodychanneltv.com/iframe/
+
+#EXTINF:-1 tvg-logo="Mimusica Tv.png" group-title="MUSICA",Mimusica Tv
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+
+#EXTINF:-1 tvg-logo="Elektrosound.png" group-title="MUSICA",Elektrosound
+rtmp://www.electrosound.tv:1935/public/stream
+
+#EXTINF:-1 tvg-logo="Europa Plus.png" group-title="MUSICA",Europa Plus
+rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp
+
+#EXTINF:-1 tvg-logo="Eska Party.png" group-title="MUSICA",Eska Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+
+#EXTINF:-1 tvg-logo="Eska rock.png" group-title="MUSICA",Eska Rock Tv
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p 
+
+#EXTINF:-1 tvg-logo="Emusic.png" group-title="MUSICA",Emusic
+rtmp://extondemand.livestream.com:80/ondemand playpath=mp4:trans/dv15/mogulus-user-files/chdjquickemusiccom/2014/04/26/db497a31-a291-494b-af50-c3f5f57ccf83.mp4 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?iconColor=0x777777&autoPlay=true&width=600&time=&iconColorOver=0x888888&height=450&jsEnabled=false&allowchat=true&mute=false&color=0xe7e7e7 live=1 pageUrl=http://cdn.livestream.com/embed/djquickemusiccom?layout=4&color=0xe7e7e7&autoPlay=true&mute=false&iconColorOver=0x888888&iconColor=0x777777&allowchat=true&height=450&width=600
+
+#EXTINF:-1 tvg-logo="1Hd Music.png" group-title="MUSICA",1Hd Music
+http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
  
-#EXTINF:-1 tvg-logo="MCM.png" group-title="MUSICA",Mcm
-http://mcm-hls.live.numericable.tv/live/hls/mcm/ipad.m3u8 
+#EXTINF:-1 tvg-logo="Dance Tv.png" group-title="MUSICA",Dance Tv
+rtmp://91.82.85.16:1935/relay15 playpath=nettv_channel_1 swfUrl=http://video72.onstreaming.de/itplayer/player.swf live=1 pageUrl=http://video72.onstreaming.de/itplayer/dancetv_hd_live_inc.php?autostart=false&image=http://www.dancetv.hu/playerbg/1.jpg
 
 #EXTINF:-1 tvg-logo="40Tv.png" group-title="MUSICA",40 Tv
 http://40tv.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel5/index.m3u8
