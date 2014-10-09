@@ -148,19 +148,19 @@ http://202.75.23.37:1400/live/ch20/03.m3u8
 rtmp://95.211.214.58:1935/live playpath=ar11a swfUrl=http://94.75.232.71/jarani.player.swf live=1 pageUrl=http://94.75.232.71/live.html?stream=ar11a&width=650&height=470
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 1
-http://91.194.84.114/sreten/sreten/38.ch
+rtmp://146.185.253.120:1935/live playpath=ar11a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 2
-http://91.194.84.114/sreten/sreten/39.ch
+rtmp://146.185.253.120:1935/live playpath=ar21a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 3
-http://91.194.84.114/sreten/sreten/40.ch
+rtmp://146.185.253.120:1935/live playpath=ar31a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 4
-http://91.194.84.114/sreten/sreten/41.ch
+rtmp://146.185.253.120:1935/live playpath=ar41a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="http://livestreamhunter.org/images/logos/arena5.jpg" group-title="INTERSPORT",Arena Sport 5
-rtmp://94.75.232.71:1935/live playpath=ar51a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/index.php?id=ar51a token=#kurac#Od#Ovce#
+rtmp://146.185.253.120:1935/live playpath=ar51a swfUrl=http://www.sports-x.net/play/jarani.player.swf live=1 pageUrl=http://www.sports-x.net/play/byDMO token=#kurac#Od#Ovce#
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5535/11876015746_63973be0ff_o.jpg" group-title="INTERSPORT",bein sports 1 (FRA)
 http://se-2.se.beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipadstream800beinsport1.m3u8
@@ -237,14 +237,20 @@ rtmp://31.220.0.103:1935/live/eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(n
 #EXTINF:-1 tvg-logo="EUROSPORT 2" group-title="INTERSPORT",Eurosport 2
 rtmp://31.220.0.103:1935/live/eurs2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
+#EXTINF:-1 tvg-logo="xtreme impacts.jpg" group-title="INTERSPORT", Xtreme Impacts
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/fightbox.jpg" group-title="INTERSPORT",FIGHT BOX
 http://202.75.23.37/live/ch20/03.m3u8
+
+#EXTINF:-1 tvg-id="Fight Channel" tvg-logo="7312329.png", Fight Channel
+http://83.139.104.101/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="fight sport.png" group-title="INTERSPORT",Fight Sport
 http://202.75.23.37/live/ch20/03.m3u8
 
-#EXTINF:-1 tvg-logo="Combate.jpg" group-title="INTERSPORT",Combate
-rtmp://l.xuscacamusca.se/r/ playpath=ch003435 swfUrl=http://xuscacamusca.se/5cadcd79724b71d3b562f6.../player1.swf live=1 pageUrl=http://xuscacamusca.se/
+#EXTINF:-1 tvg-logo="Kombat.jpg" group-title="INTERSPORT",Kombat Sport
+http://se-1.se.kombat-hls.live.numericable.tv/live/hls/kombat/ipad.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/mlb.jpg" group-title="INTERSPORT",Mlb Network
 rtmp://173.192.81.176:443/liverepeater playpath=164461 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=164461&width=620&height=490 token=#atd%#$ZH
@@ -254,6 +260,10 @@ http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.time4tv.com/images/channel-logo/premier.jpg" group-title="INTERSPORT",Premier Sports
 rtmp://31.220.0.134:1935/live playpath=gewgegs2222 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=gewgegs2222&vw=650&vh=380 token=%ZZri(nKa@#Z
+
+#EXTINF:-1 tvg-logo="setanta.jpg" group-title="INTERSPORT", Setanta Sport.
+#EXTVLCOPT: Audio-straem=2
+http://202.75.23.36/live/ch44/03.m3u8
 
 #EXTINF:-1 tvg-logo="Sky Bundesliga" group-title="INTERSPORT",Sky Bundesliga 1
 rtmp://37.187.152.46:1935/live2/skybundesliga1?u=damirtest&p=test
