@@ -574,6 +574,141 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=239&lan=2&ro
 #EXTINF:-1 tvg-logo="WARNER BROSS.png" group-title="INFANTIL",Warner Bross
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=96&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="Mtv.png" group-title="MUSICA",Mtv
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+ 
+#EXTINF:-1 tvg-logo="Mtv Music.png" group-title="MUSICA"",Mtv Music.
+http://83.139.104.101/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Mtv Dance.png" group-title="MUSICA",Mtv Dance
+http://90.189.183.223:1234/udp/233.7.70.207:5000
+ 
+#EXTINF:-1 tvg-logo="Mtv Live.png" group-title="MUSICA",Mtv Live 
+http://202.75.23.37/live/ch50/03.m3u8
+ 
+#EXTINF:-1 tvg-logo="Mtv Rocks.png" group-title="MUSICA",Mtv Rocks
+http://90.189.183.223:1234/udp/233.7.70.209:5000
+ 
+#EXTINF:-1 tvg-logo="Mtv hits.png" group-title="MUSICA",Mtv Hits
+http://90.189.183.223:1234/udp/233.7.70.208:5000
+ 
+#EXTINF:-1 tvg-logo="Vh1.png" group-title="MUSICA",VH1.
+rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates
+ 
+#EXTINF:-1 tvg-logo="Vh-1 Classic.png" group-title="MUSICA",VH-1 Classic
+http://gogo.jksw.cz:8024
+
+#EXTINF:-1 tvg-logo="4Music.png" group-title="MUSICA",4Music
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+ 
+#EXTINF:-1 tvg-logo="Aka.png" group-title="MUSICA",Aka
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="Cinestream.png" group-title="MUSICA",CineStream TV
+http://68.71.42.179/live/livestream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="Clubland.png" group-title="MUSICA",Clubland.
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="Best Music.png" group-title="MUSICA",Best Music Tv
+rtmp://stream.smcloud.net/live2/best/best_720p
+ 
+#EXTINF:-1 tvg-logo="Eska rock.png" group-title="MUSICA",Eska Rock Tv
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+ 
+#EXTINF:-1 tvg-logo="Jazz.png" group-title="MUSICA",Jazz
+rtmp://149.11.34.78/live/jazztv.stream
+ 
+#EXTINF:-1 tvg-logo="Jazz and Blues.png" group-title="MUSICA",Jazz & Blues Tv
+rtmp://mi2.gv.filmon.com:8086/live/530.high.stream
+
+#EXTINF:-1 tvg-logo="Magic.png" group-title="MUSICA"",Magic.
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+ 
+#EXTINF:-1 tvg-logo="Smash Hits.png" group-title="MUSICA",Smash Hits
+http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
+ 
+#EXTINF:-1 tvg-logo="Mezzo.png" group-title="MUSICA",MeZZo
+http://hls01-03.az.myvideo.az/hls-live/livepkgr/mezzo/mezzo/mezzo.m3u8?mfamwuUL6IpOXDJ8WwxJ
+ 
+#EXTINF:-1 tvg-logo="Legends.png" group-title="MUSICA",Music Legends
+rtmp://mi2.gv.filmon.com:8086/live/257.high.stream
+ 
+#EXTINF:-1 tvg-logo="M6 Club.png" group-title="MUSICA",M6 Music Club.
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_club_hls_aes/m6_music_club_hls_aes_856.m3u8
+ 
+#EXTINF:-1 tvg-logo="M6 Black.png" group-title="MUSICA",M6 Music black
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_black_hls_aes/m6_music_black_hls_aes_856.m3u8
+ 
+#EXTINF:-1 tvg-logo="Now Music.png" group-title="MUSICA",Now Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="Live Cassic.png" group-title="MUSICA",Live Cassic
+http://91.201.78.3:1935/live/classicshd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="Planet pop.png" group-title="MUSICA",Planet pop
+http://cdn.live.simplestream.com/D6I0S4IWX8O1NJDNBTRE/3/playlist-limelight.m3u8
+ 
+#EXTINF:-1 tvg-logo="Reagge.png" group-title="MUSICA",Reggae 
+http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="Rouge.png" group-title="MUSICA",Rouge Tv
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8?by_HasBahCa
+ 
+#EXTINF:-1 tvg-logo="Trace Urban.png" group-title="MUSICA",Trace Urban
+http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr497k.m3u8?trackingid=4041670000&m3usessid=6afbadecc074aa1c326f55d2fdf951cb&len=41&gtime=1364313761&guid=82fb67b0785c4030ffcf123456789012&da=0&hk=8620C68C2B587C13BFD44592CD483BD2
+ 
+#EXTINF:-1 tvg-logo="Vevo.png" group-title="MUSICA",Vevo Tv 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Vevo.png" group-title="MUSICA",Vevo Tv 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Vevo.png" group-title="MUSICA",Vevo Tv 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Virgin.png" group-title="MUSICA",Virgin 1
+rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.google.com/Virgin 1
+ 
+#EXTINF:-1 tvg-logo="Mtv idol.png" group-title="MUSICA",MTV Idol
+http://mtvidol-hls.live.numericable.tv/live/hls/mtvidol/ipad.m3u8
+ 
+#EXTINF:-1 tvg-logo="Mtv Pulse.png" group-title="MUSICA",MTV Pulse
+http://mtvpulse-hls.live.numericable.tv/live/hls/mtvpulse/ipad.m3u8
+
+#EXTINF:-1 tvg-logo="Heat.png" group-title="MUSICA",heat
+http://csm-e.cds1.yospace.com/csm/live/86561584.m3u8
+ 
+#EXTINF:-1 tvg-logo="The box.png" group-title="MUSICA",The Box
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+ 
+#EXTINF:-1 tvg-logo="Magic.png" group-title="MUSICA",Magic
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+ 
+#EXTINF:-1 tvg-logo="Clubland.png" group-title="MUSICA",Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="Now Music.png" group-title="MUSICA",Now Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="CAPITAL TV.png" group-title="MUSICA",Capital TV
+rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1 tvg-logo="M6.png" group-title="MUSICA",M6 Music Club
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_club_hls_aes/m6_music_club_hls_aes_856.m3u8
+ 
+#EXTINF:-1 tvg-logo="MCM.png" group-title="MUSICA",Mcm
+http://mcm-hls.live.numericable.tv/live/hls/mcm/ipad.m3u8 
+
+#EXTINF:-1 tvg-logo="40Tv.png" group-title="MUSICA",40 Tv
+http://40tv.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel5/index.m3u8
+
+#EXTINF:-1 tvg-logo="MTV.png" group-title="MUSICA",Mtv
+http://mtv.level3.nmp.hls.emision.dof6.com/sogecable/channel41/index.m3u8
+
+#EXTINF:-1 tvg-logo="SOL MUSICA.png" group-title="MUSICA",Sol Musica
+http://solmusica.akamai.nmp.hls.emision.dof6.com/hls/live/201776/channelpc11/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/liga_bbva.jpg" group-title="LIGA BBVA",Getafe VS Córdoba (03oct/21:00h)
 rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
