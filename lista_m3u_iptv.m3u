@@ -21,7 +21,7 @@ http://linksito.com/4ddd
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Toros.jpg" group-title="CINE",C+ Toros
 http://cptoros.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel10/index.m3u8 
 
-#EXTINF:-1 tvg-logo="C+ Xtra.jpg" group-title="CINE",C+ Xtra
+#EXTINF:-1 tvg-logo="http://www.deculture.es/wp-content/uploads/2012/12/canal-xtra.jpg" group-title="CINE",C+ Xtra
 http://cpxtra.akamai.nmp.hls.emision.dof6.com/hls/live/201771/channelpc6/index.m3u8
 
 #EXTINF:-1 tvg-logo="CINEMAX.png" group-title="CINE",Cinemax
@@ -42,7 +42,7 @@ rtmp://46.165.210.32/live playpath=hhhhbo?id=211931 swfUrl=http://www.mips.tv/co
 #EXTINF:-1 tvg-logo="http://www.vootar.com/imgs/elementos/1248207222_Canal%20Hollywood.jpg" group-title="CINE",Hollywood
 http://xurl.es/do-p
 
-#EXTINF:-1 tvg-logo="MAX PRIME.png" group-title="CINE",Max Prime
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-LQwWxRmQ9Ko/UjYGtQpLfOI/AAAAAAAAAUw/eKsf86DYTWk/s1600/canal54.png" group-title="CINE",Max Prime
 rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?/59hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf pageUrl=http://75.126.217.6/videoteca/play live=1
 
 #EXTINF:-1 tvg-logo="MOVIECITY FAMILY.png" group-title="CINE",Moviecity Family
@@ -398,7 +398,7 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_
 #EXTINF:-1 tvg-logo="AXN.png" group-title="SERIES",Axn
 http://axn.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel6/index.m3u8
 
-#EXTINF:-1 tvg-logo="AXN White.png" group-title="SERIES",Axn White
+#EXTINF:-1 tvg-logo="http://www.cadenaser.com/recorte/20120416csrcsrcul_4/SCO300/Ies/Logo-AXN-White.jpg" group-title="SERIES",Axn White
 http://axnwhite.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel22/06.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.teledigital.es/wp-content/uploads/2013/11/CANAL+Series.gif" group-title="SERIES",C+ Series
@@ -450,7 +450,7 @@ http://cocina.level3.nmp.hls.emision.dof6.com/sogecable/channel43/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Cosmopolitan.jpg" group-title="DOCUMENTALES",Cosmopolitan
 http://cosmo.level3.nmp.hls.emision.dof6.com/sogecable/channel36/index.m3u8
 
-#EXTINF:-1 tvg-logo="De Casa.png" group-title="DOCUMENTALES",Decasa
+#EXTINF:-1 tvg-logo="http://static.hogarutil.com/img/tv/fondo-tv.png" group-title="DOCUMENTALES",Decasa
 http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8
 
 #EXTINF:-1 tvg-logo="DISCOVERY.png" group-title="DOCUMENTALES",Discovery Channel
@@ -480,7 +480,7 @@ http://freetvcast.pw/embed.php?a=200&id=&width=650&height=400&autostart=true&str
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-YLnBYkrFOvo/TWQJieHJYFI/AAAAAAAAATc/3UdNtBKnE9M/s1600/Odisea+logo+2011.jpg" group-title="DOCUMENTALES",Odisea
 http://odisea.level3.nmp.hls.emision.dof6.com/sogecable/channel40/index.m3u8
 
-#EXTINF:-1 tvg-logo="TRIBO TV.png" group-title="DOCUMENTALES",Tribo Tv
+#EXTINF:-1 tvg-logo="http://www.antenadigital.es/logostv/tribotv.png" group-title="DOCUMENTALES",Tribo Tv
 http://overon-apple-live.adaptive.level3.net/apple/overon/channel06/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/viajar.jpg" group-title="DOCUMENTALES",Viajar
@@ -582,10 +582,10 @@ http://disneyxd.level3.nmp.hls.emision.dof6.com/sogecable/channel24/index.m3u8
 #EXTINF:-1 tvg-logo="NICKELODEON.png" group-title="INFANTIL",Nickelodeon
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=215&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="Panda.png" group-title="INFANTIL",Panda
+#EXTINF:-1 tvg-logo="http://i.imgur.com/412Un.jpg" group-title="INFANTIL",Panda
 http://panda.akamai.nmp.hls.emision.dof6.com/hls/live/201774/channelpc9/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tv14.net/logo/icon/tt/tvc_super3.jpg" group-title="INFANTIL",Super 3
+#EXTINF:-1 tvg-logo="http://www.tv14.net/logo/icon/tt/tvc_super3.gif" group-title="INFANTIL",Super 3
 rtmp://tv-geoespanya-flashlivefs.fplive.net:1935/tv-geoespanya-flashlive-live?ovpfv=1.1/stream_ES_33D_FLV
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kcwiLYU.jpg" group-title="INFANTIL",Tooncast
@@ -654,13 +654,13 @@ rtmp://91.201.78.3:1935/live/ playpath=rockhd swfUrl=http://www.useetv.com/VIEW/
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Radio%20105%20TV.png" group-title="MUSICA"",Radio 105
 rtmp://fms.105.net/live/105Test1
 
-#EXTINF:-1 tvg-logo="Stage Tv.png" group-title="MUSICA"",Stage Tv
+#EXTINF:-1 tvg-logo="http://www.lasteles.com/uploads/video/thumb17007.jpg" group-title="MUSICA"",Stage Tv
 rtmp://149.11.34.6/live/stagetv.stream
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/TELEMUSICA.jpg" group-title="MUSICA"",Telemusica
 rtsp://190.0.28.154:1935/live/S9bgB8dJmS
 
-#EXTINF:-1 tvg-logo="Q-Music.png" group-title="MUSICA"",Q-Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTblNLqJ3nfUiqq7_r6Ru3kfTiIvOM6KIq4z-ZRq4nQUObMPTtpbA" group-title="MUSICA"",Q-Music
 rtmp://vmmaeventlivefs.fplive.net:1935/vmmaeventlive-live/vmma.radio-sdh
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/URBAN_TV.jpg" group-title="MUSICA"",Urban Tv
@@ -687,13 +687,13 @@ http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8?by_HasBahCa
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Trace%20Urban.png" group-title="MUSICA",Trace Urban
 http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr497k.m3u8?trackingid=4041670000&m3usessid=6afbadecc074aa1c326f55d2fdf951cb&len=41&gtime=1364313761&guid=82fb67b0785c4030ffcf123456789012&da=0&hk=8620C68C2B587C13BFD44592CD483BD2
  
-#EXTINF:-1 tvg-logo="Vevo.png" group-title="MUSICA",Vevo Tv 1
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/VEVO_TV.jpg" group-title="MUSICA",Vevo Tv 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
  
-#EXTINF:-1 tvg-logo="Vevo.png" group-title="MUSICA",Vevo Tv 2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/VEVO_TV.jpg" group-title="MUSICA",Vevo Tv 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
  
-#EXTINF:-1 tvg-logo="Vevo.png" group-title="MUSICA",Vevo Tv 3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/VEVO_TV.jpg" group-title="MUSICA",Vevo Tv 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
  
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Virgin%20Radio%20Tv.png" group-title="MUSICA",Virgin 1
@@ -702,7 +702,7 @@ rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioita
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/vita_tv.png" group-title="MUSICA",Vita Tv
 rtmp://rtmp.infomaniak.ch/livecast/vitatv
 
-#EXTINF:-1 tvg-logo="Heart.png" group-title="MUSICA",Heart
+#EXTINF:-1 tvg-logo="http://iptvdigital.com/imagenes/canal_live/98_canal_live_heart.jpg" group-title="MUSICA",Heart
 rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
  
 #EXTINF:-1 tvg-logo="The box.png" group-title="MUSICA",The Box
@@ -735,7 +735,7 @@ rtmp://tst.es.flash.glb.ipercast.net:1935/tst.es-live/ playpath=live swfUrl=http
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/MELODY_CHANNEL.jpg" group-title="MUSICA",Melody
 rtmp://190.0.28.154:1935/live/ playpath=pqDyhE3GWS swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.melodychanneltv.com/iframe/
 
-#EXTINF:-1 tvg-logo="Mimusica Tv.png" group-title="MUSICA",Mimusica Tv
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="MUSICA",Mimusica Tv
 http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ELEKTROSOUND.jpg" group-title="MUSICA",Elektrosound
@@ -744,10 +744,10 @@ rtmp://www.electrosound.tv:1935/public/stream
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Europa%20Plus%20TV.png" group-title="MUSICA",Europa Plus
 rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp
 
-#EXTINF:-1 tvg-logo="Eska Party.png" group-title="MUSICA",Eska Party
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3MKwsrAZYgCNOZgq4U-NFzYWRcTfl_-fkZsCpP5uSCx6V-6uPiQ" group-title="MUSICA",Eska Party
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
 
-#EXTINF:-1 tvg-logo="Eska rock.png" group-title="MUSICA",Eska Rock Tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQetDXpcaNgBLAZYW_9EwmhY5_dsjNcf4CfsU82citRoeJ3g-Uu" group-title="MUSICA",Eska Rock Tv
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/E-MUSIC.jpg" group-title="MUSICA",Emusic
@@ -759,7 +759,7 @@ http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Dance%20TV.png" group-title="MUSICA",Dance Tv
 rtmp://91.82.85.16:1935/relay15 playpath=nettv_channel_1 swfUrl=http://video72.onstreaming.de/itplayer/player.swf live=1 pageUrl=http://video72.onstreaming.de/itplayer/dancetv_hd_live_inc.php?autostart=false&image=http://www.dancetv.hu/playerbg/1.jpg
 
-#EXTINF:-1 tvg-logo="40Tv.png" group-title="MUSICA",40 Tv
+#EXTINF:-1 tvg-logo="http://www.prisaradio.com/uploads/imagenes/ficheros/capturas/201306/capturas-captura-video-es.jpg" group-title="MUSICA",40 Tv
 http://40tv.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/sol%20musica.png" group-title="MUSICA",Sol Musica
