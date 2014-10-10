@@ -494,6 +494,9 @@ http://overon-apple-live.adaptive.level3.net/apple/overon/channel06/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/viajar.jpg" group-title="DOCUMENTALES",Viajar
 http://viajar.level3.nmp.hls.emision.dof6.com/sogecable/channel42/index.m3u8
 
+#EXTINF:-1 tvg-logo="24 Horas.png" group-title="TDT",24 Horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
 #EXTINF:-1 tvg-logo="LA 1.png" group-title="TDT",La 1
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
 
@@ -533,8 +536,14 @@ http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20Sur%20sat.jpg" group-title="TDT",Andalucia Tv
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 
+#EXTINF:-1 tvg-logo="Baleares.jpg" group-title="TDT",Baleares Tv
+rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live playpath=streamib3 swfUrl=http://www.jaxe.net/player/player-o...&skin=http://www.jaxe.net/player/dangdang.swflive=1 pageUrl=http://www.tutvendirecto.com/2013/01/ver-ib3-islas-baleares-tv-online-en.html
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-FBTIDG8gm44/UQhn3ZngGwI/AAAAAAAAAQU/lvbpmq1cAkc/s1600/canariastv.jpg" group-title="TDT",Canarias Tv
 rtmp://streamrtvcdrb.mad.idec.net/rtvcnet playpath=rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf live=1 pageUrl=http://www2.rtvc.es/television/Directo.aspx
+
+#EXTINF:-1 tvg-logo="Cadiz.jpg" group-title="TDT",Cadiz Tv
+http://flash3.todostreaming.es/unatv2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Divinity.jpg" group-title="TDT",Divinity
 rtmp://50.7.133.98/iguide playpath=wynj5ay2hae8dzy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
@@ -548,17 +557,29 @@ rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ p
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-xG8YrdDmOIw/URTeW71BwzI/AAAAAAAAAbc/svNP9ice7Tk/s1600/tvgalicia.jpg" group-title="TDT",Galicia Tv
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/IbizaON%20tv.png" group-title="MUSICA",Ibiza On Tv
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+
+#EXTINF:-1 tvg-logo="Malaga.jpg" group-title="TDT",Malaga Tv
+mms://canallocal.ptvtelecom.com/PTV-MALAGA
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-smV3GlvkNWA/URTeRVfh8DI/AAAAAAAAAbE/cZqwOhwu_7o/s1600/la-otra.jpg" group-title="TDT",La Otra
 rtmp://laotralivefs.fplive.net:1935/laotralive-live?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=e.com/viewer/us20140724.1408/federatedVideoUI/BrightcovePlayer.swf?uid=1407185285484 live=1 pageUrl=http://www.telemadrid.es/emision_en_directo_laotra
 
+#EXTINF:-1 tvg-logo="Levante.png" group-title="TDT",Levante 
+rtmp://teledifusion.tv:1935/levantetvlive playpath=levantetvlive swfUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent live=1
+
+#EXTINF:-1 tvg-logo="Toledo.jpg" group-title="TDT",Toledo Tv
+http://flash3.todostreaming.es/edesco/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="TV3.png" group-title="TDT",Tv3 
-http://www.tv3.cat/directetv3cat/tv3cat.m3u8
+http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
 
 #EXTINF:-1 tvg-logo="baby tv.png" group-title="INFANTIL",baby tv
 http://babytv.akamai.nmp.hls.emision.dof6.com/hls/live/201775/channelpc10/index.m3u8
 
 #EXTINF:-1 tvg-logo="boomerang.png" group-title="INFANTIL",boomerang
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
+http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Bloomberg .png" group-title="INFANTIL",Bloomberg 
 http://88.12.17.244:4022/udp/239.0.0.29:8208
@@ -588,7 +609,7 @@ http://nickjr.level3.nmp.hls.emision.dof6.com/sogecable/channel45/index.m3u8
 http://disneyxd.level3.nmp.hls.emision.dof6.com/sogecable/channel24/index.m3u8
 
 #EXTINF:-1 tvg-logo="NICKELODEON.png" group-title="INFANTIL",Nickelodeon
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=215&lan=2&rows=40&f=.m3u8
+http://linksito.com/4e7s
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/412Un.jpg" group-title="INFANTIL",Panda
 http://panda.akamai.nmp.hls.emision.dof6.com/hls/live/201774/channelpc9/index.m3u8
