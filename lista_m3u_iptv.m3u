@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://www.canalbuzz.tv/img/canal_logo_buzzrojo.gif" group-title="CINE",Buzz
-rtmp://50.23.113.228/live playpath=199609?313431333134303433325f3038383437333935323361336639313735623931623435343734346163343435 swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://castalba.tv/embed.php?cid=24476&wh=670&ht=400&r=streamingfreetv.net
+rtmp://50.23.113.228/live playpath=199609?313431333134303433325f3038383437333935323361336639313735623931623435343734346163343435 swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://castalba.tv/embed.php?cid=24476&wh=670&ht=400&r=streamingfreetv.net conn=S:OK --live
   	
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 1
 http://dpluspc-i.akamaihd.net/hls/live/201766/channelpc1/05.m3u8
@@ -10,10 +10,10 @@ http://dpluspc-i.akamaihd.net/hls/live/201766/channelpc1/05.m3u8
 http://cp2.level3.nmp.hls.emision.dof6.com/sogecable/channel33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Acci%C3%B3n.png" group-title="CINE",C+ Acción
-rtmp://12445055.cast247.tv:443/live playpath=accionstremsdhd?ticket=f9bc43a37f165c07a1220bb3021b47b5 swfUrl=http://www.cast247.tv/swf/player.swf live=1 pageUrl=http://www.cast247.tv/embed.php?channel=accionstremsdhd&width=670&height=400&domain=streamingfreetv.net
+rtmp://12445055.cast247.tv:443/live playpath=accionstremsdhd?ticket=f9bc43a37f165c07a1220bb3021b47b5 swfUrl=http://www.cast247.tv/swf/player.swf live=1 pageUrl=http://www.cast247.tv/embed.php?channel=accionstremsdhd&width=670&height=400&domain=streamingfreetv.net conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Comedia.png" group-title="CINE",C+ Comedia
-rtmp://12445055.cast247.tv:443/live playpath=plusjdskaks?ticket=bca3f2aa878deb2b73ff8f99d3cadf18 swfUrl=http://www.cast247.tv/swf/player.swf live=1 pageUrl=http://www.cast247.tv/embed.php?channel=plusjdskaks&width=650&height=400&domain=streamingfreetv.net
+rtmp://12445055.cast247.tv:443/live playpath=plusjdskaks?ticket=bca3f2aa878deb2b73ff8f99d3cadf18 swfUrl=http://www.cast247.tv/swf/player.swf live=1 pageUrl=http://www.cast247.tv/embed.php?channel=plusjdskaks&width=650&height=400&domain=streamingfreetv.net conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Dcine.png" group-title="CINE",C+ DCine
 http://linksito.com/4e7k
