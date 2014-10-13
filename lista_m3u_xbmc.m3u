@@ -130,7 +130,7 @@ rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to
 http://www.ienlace-tv.com:1935/live12/livestream1.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Real%20Madrid%20Tv.png" group-title="DEPORTES",R.Madrid Tv
-http://linksito.com/4dcm
+http://ccc13.doiptv.com/cs_real_madrid/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
 http://sportmania.level3.nmp.hls.emision.dof6.com/sogecable/channel39/index.m3u8
@@ -169,40 +169,40 @@ http://se-2.se.beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipadstream
 http://beinsport2-hls.live.numericable.tv/live/hls/beinsport2/ipad.m3u8
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5535/11876015746_63973be0ff_o.jpg" group-title="INTERSPORT",bein sports 1
-http://tinyurl.com/pcxg3cm
+http://202.75.23.37/live/ch18/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5497/11875607834_539a170882_o.jpg" group-title="INTERSPORT",bein sports 2
-http://tinyurl.com/onrhow7
+http://202.75.23.37/live/ch19/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://farm4.staticflickr.com/3780/11876015246_414c2131c0_o.jpg" group-title="INTERSPORT",bein sports 3
-http://tinyurl.com/pkfequo
+rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://s2.yimg.com/sk/3702/11875448753_3c89ba76d7_o.jpg" group-title="INTERSPORT",bein sports 4
-http://tinyurl.com/obwox4r
+rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm8.staticflickr.com/7330/11875606994_7b9a339daf_o.jpg" group-title="INTERSPORT",bein sports 5
-http://tinyurl.com/pov3zrq
+rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5507/11876014376_0a891b585c_o.jpg" group-title="INTERSPORT",bein sports 6
-http://tinyurl.com/pu6dg8o
+rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5511/11875448123_b184e91c00_o.jpg" group-title="INTERSPORT",bein sports 7
-http://tinyurl.com/o9z8q32
+rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5482/11875606304_31ae63dc42_o.jpg" group-title="INTERSPORT",bein sports 8
-http://tinyurl.com/okcfpga
+rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/loboicaperucita token=#atd%#$ZH
 
 #EXTINF:-1 tvg-logo="https://farm8.staticflickr.com/7326/13993655552_549a3fcd41_o.jpg" group-title="INTERSPORT",bein sports 9
-http://tinyurl.com/q3buv4h
+rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://farm6.staticflickr.com/5464/13997292544_e04ec5d172_o.jpg" group-title="INTERSPORT",bein sports 10
-http://tinyurl.com/pldzh8k
+rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5485/11875447663_368349768f_o.jpg" group-title="INTERSPORT",bein sports 11
-http://tinyurl.com/p7xorsb
+rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://farm4.staticflickr.com/3811/11875605694_4fe4e683e8_o.jpg" group-title="INTERSPORT",bein sports 12
-http://tinyurl.com/p6x52e6
+rtmp://31.220.0.82:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bn12&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://farm6.staticflickr.com/5062/13973749556_8c81fb9279_o.jpg" group-title="INTERSPORT",bein sports 13
 http://tinyurl.com/qhdmthu
@@ -318,7 +318,6 @@ http://ccc13.doiptv.com/sky_sport_4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg" group-title="INTERSPORT",Sky Sports 5
 http://ccc13.doiptv.com/sky_sport_5/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SkySportsF1.jpg" group-title="INTERSPORT",Sky Sports F1
 http://ccc13.doiptv.com/sky_sport_f1/playlist.m3u8
@@ -611,7 +610,7 @@ http://nickjr.level3.nmp.hls.emision.dof6.com/sogecable/channel45/index.m3u8
 http://disneyxd.level3.nmp.hls.emision.dof6.com/sogecable/channel24/index.m3u8
 
 #EXTINF:-1 tvg-logo="NICKELODEON.png" group-title="INFANTIL",Nickelodeon
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=215&lan=2&rows=40&f=.m3u8
+http://linksito.com/4e7s
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/412Un.jpg" group-title="INFANTIL",Panda
 http://panda.akamai.nmp.hls.emision.dof6.com/hls/live/201774/channelpc9/index.m3u8
