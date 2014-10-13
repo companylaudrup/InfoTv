@@ -10,10 +10,10 @@ http://dpluspc-i.akamaihd.net/hls/live/201766/channelpc1/05.m3u8
 http://cp2.level3.nmp.hls.emision.dof6.com/sogecable/channel33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Acci%C3%B3n.png" group-title="CINE",C+ Acción
-rtmp://12445055.cast247.tv:443/live playpath=accionstremsdhd?ticket=f9bc43a37f165c07a1220bb3021b47b5 swfUrl=http://www.cast247.tv/swf/player.swf live=1 pageUrl=http://www.cast247.tv/embed.php?channel=accionstremsdhd&width=670&height=400&domain=streamingfreetv.net conn=S:OK --live
+http://ccc13.doiptv.com/cs_canal_accion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Comedia.png" group-title="CINE",C+ Comedia
-rtmp://12445055.cast247.tv:443/live playpath=plusjdskaks?ticket=bca3f2aa878deb2b73ff8f99d3cadf18 swfUrl=http://www.cast247.tv/swf/player.swf live=1 pageUrl=http://www.cast247.tv/embed.php?channel=plusjdskaks&width=650&height=400&domain=streamingfreetv.net conn=S:OK --live
+http://ccc13.doiptv.com/cs_comedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Dcine.png" group-title="CINE",C+ DCine
 http://linksito.com/4e7k
@@ -40,7 +40,7 @@ http://vaughnlive.tv/embed/video/mega_extremo?viewers=true&watermark=left&autopl
 rtmp://85.17.172.96/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=1&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://www.vootar.com/imgs/elementos/1248207222_Canal%20Hollywood.jpg" group-title="CINE",Hollywood
-http://xurl.es/do-p
+http://ccc13.doiptv.com/cs_hollywood/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-LQwWxRmQ9Ko/UjYGtQpLfOI/AAAAAAAAAUw/eKsf86DYTWk/s1600/canal54.png" group-title="CINE",Max Prime
 rtmp://174.127.73.32/master3/?_fcs_vhost=_defaultVHost_?/59hd swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf pageUrl=http://75.126.217.6/videoteca/play live=1
@@ -94,7 +94,7 @@ rtmp://137.63.71.234/edge/beinhd/beinhd playpath=beinhd pageUrl=http://www.boxli
 rtmp://188.254.54.210:1940/stream playpath=24684 swfUrl=http://goodgame.ru/files/tmp/ggplayer.swf live=1 pageUrl=http://goodgame.ru/player?24684
 
 #EXTINF:-1 tvg-logo="ESPN HD.png" group-title="DEPORTES",Espn HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
+http://ccc13.doiptv.com/sky_espn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epltalk.com/wp-content/uploads/2009/09/espn2-logo.jpg" group-title="DEPORTES",Espn 2
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
@@ -127,10 +127,10 @@ rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to
 rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/GOL%20Tv%20Latino.png" group-title="DEPORTES",Gol Tv (Lat)
-http://www.ienlace-tv.com:1935/live12/livestream1.sdp/CampeonaTicoTV1.m3u8
+http://www.ienlace-tv.com:1935/live12/livestream1.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Real%20Madrid%20Tv.png" group-title="DEPORTES",R.Madrid Tv
-http://linksito.com/4dcm
+http://ccc13.doiptv.com/cs_real_madrid/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
 http://sportmania.level3.nmp.hls.emision.dof6.com/sogecable/channel39/index.m3u8
@@ -245,6 +245,7 @@ rtmp://46.28.49.156/live playpath=hrivo06?id=74910 swfUrl=http://www.ucaster.eu/
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-NH9V9EIXDPg/TfOwmW5yiVI/AAAAAAAAAiw/9riAAWyLHBw/s1600/espn_deportes.jpg" group-title="INTERSPORT",Espn Deportes
 rtmp://137.63.71.34/edge/ESPN2/ESPN2 playpath=ESPN2 pageUrl=http://www.boxlivetv.net/
+
 #EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="INTERSPORT",Eurosport
 http://149.255.39.122/aasd/8814/index.m3u8
 
@@ -444,7 +445,7 @@ http://tnt.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel15/index.m3u8
 http://freetvcast.pw/embed.php?a=218&id=&width=650&height=400&autostart=true&strech
 
 #EXTINF:-1 tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/bio-biography_channel-logo.jpg" group-title="DOCUMENTALES",Bio
-http://acabsw.doiptv.com/cs_bio/playlist.m3u8
+http://ccc13.doiptv.com/cs_comedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="ANIMAL PLANET.png" group-title="DOCUMENTALES",Animal Planet
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&rows=40&f=.m3u8
@@ -462,7 +463,7 @@ http://cosmo.level3.nmp.hls.emision.dof6.com/sogecable/channel36/index.m3u8
 http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8
 
 #EXTINF:-1 tvg-logo="DISCOVERY.png" group-title="DOCUMENTALES",Discovery Channel
-rtmp://50.7.137.90/iguide playpath=ahlndplmgbhavw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=258&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.vayatele.com/2011/12/logo-discovery-max.JPG" group-title="DOCUMENTALES",Discovery Max
 http://88.12.17.244:4022/udp/239.0.0.32:8208
@@ -507,7 +508,7 @@ http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/stream-antena3_1
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/CuatroTV.jpg" group-title="TDT",Cuatro
-http://linksito.com/4e9r
+http://ccc13.doiptv.com/cs_cuatro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Tele5.jpg" group-title="TDT",Telecinco
 http://xurl.es/tele5
@@ -525,7 +526,7 @@ rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live?videoId=370667662000
 rtmp://50.7.189.2/iguide playpath=hrrtomjwtm4r2ht swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://www.rtvcm.es/img/logos_cab_esq.gif" group-title="TDT",CCLM
-rtmp://teledifusion.tv/rtvcm playpath=rtvcmlive1 swfUrl=http://rtvcm.es/templates/marco/endirecto/player.swf
+http://ccc13.doiptv.com/cs_tnt/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-FsmOBo723e4/URTeEyuvzvI/AAAAAAAAAaU/uhiopzO-3Wk/s1600/aragontv.jpg" group-title="TDT",Aragon Tv
 http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
