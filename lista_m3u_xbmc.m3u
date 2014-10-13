@@ -305,23 +305,23 @@ rtmp://31.220.0.133:1935/live playpath=skyita2new pageUrl=http://www.flashtv.co/
 rtmp://31.220.0.133:1935/live playpath=sky03itanew swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=sky03itanew&vw=620&vh=490 token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wdlAQctyGF8/U36lIopkuEI/AAAAAAAAARo/gIldfGU6mgs/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 1
-http://acabsw.doiptv.com/sky_sport_1/playlist.m3u8
+http://ccc13.doiptv.com/sky_sport_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_siFbFpAHko/U36lYEFEFlI/AAAAAAAAARw/jvenSLIIQYY/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 2
-http://acabsw.doiptv.com/sky_sport_2/playlist.m3u8
+http://ccc13.doiptv.com/sky_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5RG9uacR3mg/U36lhS_HaPI/AAAAAAAAAR4/APixD08cj44/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 3
-http://acabsw.doiptv.com/sky_sport_3/playlist.m3u8
+http://ccc13.doiptv.com/sky_sport_3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--IEwJB9AA8s/U36lvfVSwjI/AAAAAAAAASA/JjC6zgX1QOQ/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 4
-http://acabsw.doiptv.com/sky_sport_4/playlist.m3u8
+http://ccc13.doiptv.com/sky_sport_4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg" group-title="INTERSPORT",Sky Sports 5
-http://acabsw.doiptv.com/sky_sport_5/playlist.m3u8
+http://ccc13.doiptv.com/sky_sport_5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SkySportsF1.jpg" group-title="INTERSPORT",Sky Sports F1
-http://acabsw.doiptv.com/sky_sport_f1/playlist.m3u8
+http://ccc13.doiptv.com/sky_sport_f1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%201%20Germany.png" group-title="INTERSPORT",Sport 1 HD
 rtmp://37.187.162.40:1935/liverepeater/166506 
