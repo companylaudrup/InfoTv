@@ -217,10 +217,10 @@ http://tinyurl.com/p9dt9jz
 rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt1.jpg" group-title="INTERSPORT",BT Sport 1
-rtmpe://46.246.124.87/live/ukbttt1 pageUrl=http://www.ukcast.co/
+http://ccc13.doiptv.com/sky_bt_sport_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Bt2.jpg" group-title="INTERSPORT",BT Sport 2
-rtmp://31.220.0.82:1935/live playpath=bt2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bt2&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://ccc13.doiptv.com/sky_bt_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport1.jpg" group-title="INTERSPORT",Digi Sport 1
 rtmpe://31.220.0.12/live playpath=dig1 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=dig1&vw=690&vh=420
@@ -244,7 +244,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&ro
 rtmp://46.28.49.156/live playpath=hrivo06?id=74910 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-NH9V9EIXDPg/TfOwmW5yiVI/AAAAAAAAAiw/9riAAWyLHBw/s1600/espn_deportes.jpg" group-title="INTERSPORT",ESPN DEPORTES
-rtmp://137.63.71.34/edge/ESPN2/ESPN2 playpath=ESPN2 pageUrl=http://www.boxlivetv.net/
+http://usa.fankytv.com/live/espn.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="INTERSPORT",Eurosport
 http://149.255.39.122/aasd/8814/index.m3u8
@@ -256,7 +256,7 @@ http://149.255.39.122/aasd/8815/index.m3u8
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/fightbox.jpg" group-title="INTERSPORT",FIGHT BOX
-http://202.75.23.37/live/ch20/03.m3u8
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fight Channel" tvg-logo="7312329.png", Fight Channel
 http://83.139.104.101/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
@@ -286,9 +286,6 @@ rtmp://31.220.0.134:1935/live playpath=gewgegs2222 swfUrl=http://www.flashtv.co/
 http://149.255.39.122/aasd/8816/index.m3u8
 
 #EXTINF:-1 tvg-logo="Rai Sport.png" group-title="INTERSPORT",Rai Sport 2
-http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
-
-#EXTINF:-1 tvg-logo="Rai Sport.jpg" group-title="INTERSPORT",Rai Sport 3
 http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1840.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Setanta%20Sports.png" group-title="INTERSPORT", Setanta Sport.
@@ -472,7 +469,7 @@ http://gh24hios-lh.akamaihd.net/i/telecinco/gh24hios_1@132501/index_350_av-b.m3u
 http://historia.level3.nmp.hls.emision.dof6.com/sogecable/channel37/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://radioteve.com/tele/europa/Espana/logo/hogarutil.jpg" group-title="DOCUMENTALES",Hogar Util
-http://brightcove03-f.akamaihd.net/H...g=LBXIUFRGSVGB
+http://xurl.es/72419
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/National%20Geographic.png" group-title="DOCUMENTALES",Nat Geographic
 http://natgeo.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel18/05.m3u8
