@@ -223,13 +223,13 @@ http://ccc13.doiptv.com/sky_bt_sport_1/playlist.m3u8
 http://ccc13.doiptv.com/sky_bt_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport1.jpg" group-title="INTERSPORT",Digi Sport 1
-rtmpe://31.220.0.12/live playpath=dig1 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=dig1&vw=690&vh=420
+rtmpe://46.246.124.84/live playpath=dig1 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport2.jpg" group-title="INTERSPORT",Digi Sport 2
-rtmpe://31.220.0.12/live playpath=dig2 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=dig2&vw=690&vh=420
+rtmpe://31.220.0.12/live/dig2 pageUrl=http://www.dcast.tv
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport3.jpg" group-title="INTERSPORT",Digi Sport 3
-rtmpe://31.220.0.12/live playpath=sport11 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=sport11&vw=690&vh=420#EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="INTERSPORT",Eurosporttmp://31.220.0.103:1935/live/eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmpe://46.246.124.84/live playpath=sport11 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/
 
 #EXTINF:-1 tvg-logo="ESPN HD.png" group-title="INTERSPORT",ESPN
 http://usa.fankytv.com/live/espn.stream/chunklist.m3u8
