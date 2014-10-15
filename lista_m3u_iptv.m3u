@@ -79,7 +79,7 @@ rtmp://185.39.9.66:1735/vod?token=play@141088940205056 playpath=tvb3 swfUrl=http
 http://cpfutbol.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/Canal+-F%C3%BAtbol-HD.jpg" group-title="DEPORTES",C+ Fútbol
-http://ccc13.doiptv.com/cs_futbol/playlist.m3u8
+rtmp://94.242.228.83:80/liverepeater playpath=165657 swfUrl=http://cdn.goodcast.me/players.swf live=1 pageUrl=http://goodcast.me/streamn.php?id=165657&width=640&height=490 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3nWpx2a.jpg" group-title="DEPORTES",C+ Golf
 http://cpgolf.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel4/index.m3u8
@@ -88,7 +88,7 @@ http://cpgolf.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel4/index.m3u
 http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_TUap8Wjt9kg/TA--1LNWn7I/AAAAAAAAADY/J_2i14Nf_4g/s1600/canalplus_liga_hd.jpg" group-title="DEPORTES",C+ Liga
-http://ccc13.doiptv.com/cs_liga/playlist.m3u8
+rtmp://12445055.cast247.tv:443/live playpath=sadoksdsdasf?ticket=ed3372229d41ca068b26a206bb50e9d1 swfUrl=http://www.cast247.tv/swf/player.swf live=1 pageUrl=http://www.cast247.tv/embed.php?channel=sadoksdsdasf&width=670&height=400&domain=streamingfreetv.net
 
 #EXTINF:-1 tvg-logo="http://lacajatv.tv/wp-content/uploads/2014/03/canal_plus_liga_campeones1.jpg" group-title="DEPORTES",C+ Liga de Campeones
 http://cpligacamp.nmp.hls.emision.dof6.com/hls/live/201768/channelpc3/index.m3u8
@@ -97,7 +97,7 @@ http://cpligacamp.nmp.hls.emision.dof6.com/hls/live/201768/channelpc3/index.m3u8
 http://ccc13.doiptv.com/cs_ligachamp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Directv%20Sports.jpg" group-title="DEPORTES",DirectTv Sports 
-rtmp://188.254.54.210:1940/stream playpath=24684 swfUrl=http://goodgame.ru/files/tmp/ggplayer.swf live=1 pageUrl=http://goodgame.ru/player?24684
+rtmp://195.154.235.85:80/liverepeater playpath=177719 swfUrl=http://cdn.goodcast.me/players.swf live=1 pageUrl=http://goodcast.me/streamn.php?id=177719&width=640&height=490 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="ESPN HD.png" group-title="DEPORTES",Espn HD
 http://ccc13.doiptv.com/sky_espn/playlist.m3u8
@@ -163,19 +163,19 @@ http://ago1drug:03mart2014@streamer.in.rs:8080/str24?
 http://edin-ibro:sat@ipbih.dyndns.org:81/arenasr5
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5535/11876015746_63973be0ff_o.jpg" group-title="INTERSPORT",Bein sport 1 FR
-http://se-2.se.beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipadstream800beinsport1.m3u8
-
-#EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5497/11875607834_539a170882_o.jpg" group-title="INTERSPORT",Bein sport 2 FR
 http://beinsport2-hls.live.numericable.tv/live/hls/beinsport2/ipad.m3u8
 
+#EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5497/11875607834_539a170882_o.jpg" group-title="INTERSPORT",Bein sport 2 FR
+http://beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipad.m3u8
+
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5535/11876015746_63973be0ff_o.jpg" group-title="INTERSPORT",bein sports 1
-http://tinyurl.com/pcxg3cm
+rtmp://195.154.216.186:80/liverepeater playpath=140266 swfUrl=http://cdn.goodcast.me/players.swf live=1 pageUrl=http://goodcast.me/streamn.php?id=140266&width=640&height=490 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5497/11875607834_539a170882_o.jpg" group-title="INTERSPORT",bein sports 2
-http://tinyurl.com/onrhow7
+rtmp://195.154.216.142:80/liverepeater playpath=134959 swfUrl=http://cdn.goodcast.me/players.swf live=1 pageUrl=http://goodcast.me/streamn.php?id=134959&width=640&height=490 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="http://farm4.staticflickr.com/3780/11876015246_414c2131c0_o.jpg" group-title="INTERSPORT",bein sports 3
-http://tinyurl.com/pkfequo
+rtmp://195.154.220.46:80/liverepeater playpath=165344 swfUrl=http://cdn.goodcast.me/players.swf live=1 pageUrl=http://goodcast.me/streamn.php?id=165344&width=640&height=490 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1 tvg-logo="https://s2.yimg.com/sk/3702/11875448753_3c89ba76d7_o.jpg" group-title="INTERSPORT",bein sports 4
 http://tinyurl.com/obwox4r
@@ -247,10 +247,10 @@ rtmp://46.28.49.156/live playpath=hrivo06?id=74910 swfUrl=http://www.ucaster.eu/
 http://usa.fankytv.com/live/espn.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="INTERSPORT",Eurosport
-http://149.255.39.122/aasd/8814/index.m3u8
+http://eurosport-hls.live.numericable.tv/live/hls/eurosport/ipad.m3u8
 
 #EXTINF:-1 tvg-logo="EUROSPORT 2" group-title="INTERSPORT",Eurosport 2
-http://149.255.39.122/aasd/8815/index.m3u8
+http://eurosport2-hls.live.numericable.tv/live/hls/eurosport2/ipad.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Xtreme%20Hd.png" group-title="INTERSPORT", Xtreme
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
@@ -271,7 +271,7 @@ http://202.75.23.37:1400/live/ch20/03.m3u8
 rtmp://$OPT:rtmp-raw=rtmp://cdn-edge.livestreamcast.org/liverepeat/ playpath=zona5gd swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=zona5gd&vw=700&vh=400
 
 #EXTINF:-1 tvg-logo="Kombat.jpg" group-title="INTERSPORT",Kombat Sport
-http://se-1.se.kombat-hls.live.numericable.tv/live/hls/kombat/ipad.m3u8
+http://kombat-hls.live.numericable.tv/live/hls/kombat/ipad.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/mlb.jpg" group-title="INTERSPORT",Mlb Network
 rtmp://173.192.81.176:443/liverepeater playpath=164461 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=164461&width=620&height=490 token=#atd%#$ZH
@@ -296,34 +296,34 @@ http://202.75.23.36/live/ch44/03.m3u8
 rtmp://37.187.152.46:1935/live2/skybundesliga1?u=damirtest&p=test
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/sky_calcio.jpg" group-title="INTERSPORT",Sky Calcio (ITA)
-rtmp://31.220.0.82:1935/live  swfUrl=http://www.flashtv.co/ePlayerr.swf  pageUrl=http://www.flashtv.co/embed.php?live=amsportmechannel4&vw=620&vh=490  playpath=amsportmechannel4 token=%ZZri(nKa@#Z
+rtmp://31.220.0.82:1935/live playpath=amsportmechannel4 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_calcio1.jpg" group-title="INTERSPORT",Sky Sports 1 (ITA)
-rtmp://95.168.199.241:1935/live  swfUrl=http://www.flashtv.co/ePlayerr.swf  pageUrl=http://www.flashtv.co/embed.php?live=amsportmechannel1&vw=620&vh=490  playpath=amsportmechannel1 token=%ZZri(nKa@#Z
+rtmp://95.168.199.241:1935/live playpath=amsportmechannel1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_calcio2.jpg" group-title="INTERSPORT",Sky Sports 2 (ITA)
-rtmp://31.220.0.134:1935/live  swfUrl=http://www.flashtv.co/ePlayerr.swf  pageUrl=http://www.flashtv.co/embed.php?live=amsportmechannel2&vw=620&vh=490  playpath=amsportmechannel2 token=%ZZri(nKa@#Z
+rtmp://31.220.0.134:1935/live playpath=amsportmechannel2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_calcio3.jpg" group-title="INTERSPORT",Sky Sports 3 (ITA)
-rtmp://31.220.0.103:1935/live  swfUrl=http://www.flashtv.co/ePlayerr.swf  pageUrl=http://www.flashtv.co/embed.php?live=amsportmechannel3&vw=620&vh=490  playpath=amsportmechannel3 token=%ZZri(nKa@#Z
+rtmp://31.220.0.103:1935/live playpath=amsportmechannel3 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wdlAQctyGF8/U36lIopkuEI/AAAAAAAAARo/gIldfGU6mgs/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 1
-http://ccc13.doiptv.com/sky_sport_1/playlist.m3u8
+rtmpe://46.246.124.22:1935/live/ playpath=sskys1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_siFbFpAHko/U36lYEFEFlI/AAAAAAAAARw/jvenSLIIQYY/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 2
-http://ccc13.doiptv.com/sky_sport_2/playlist.m3u8
+rtmpe://46.246.124.22:1935/live/ playpath=sskys2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5RG9uacR3mg/U36lhS_HaPI/AAAAAAAAAR4/APixD08cj44/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 3
-http://ccc13.doiptv.com/sky_sport_3/playlist.m3u8
+rtmpe://46.246.124.22:1935/live/ playpath=sskys3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--IEwJB9AA8s/U36lvfVSwjI/AAAAAAAAASA/JjC6zgX1QOQ/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 4
-http://ccc13.doiptv.com/sky_sport_4/playlist.m3u8
+rtmpe://46.246.124.22:1935/live/ playpath=sskys4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg" group-title="INTERSPORT",Sky Sports 5
-http://ccc13.doiptv.com/sky_sport_5/playlist.m3u8
+rtmpe://46.246.124.22:1935/live/ playpath=sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SkySportsF1.jpg" group-title="INTERSPORT",Sky Sports F1
-http://ccc13.doiptv.com/sky_sport_f1/playlist.m3u8
+rtmpe://46.246.124.22:1935/live/ playpath=sskysf1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%201%20Germany.png" group-title="INTERSPORT",Sport 1 HD
 rtmp://37.187.162.40:1935/liverepeater/166506 
