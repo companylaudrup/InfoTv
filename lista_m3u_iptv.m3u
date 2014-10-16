@@ -4,7 +4,7 @@
 http://tinyurl.com/m49t2ss
   	
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 1
-http://dpluspc-i.akamaihd.net/hls/live/201766/channelpc1/05.m3u8
+rtmp://109.123.126.34/live playpath=hijoputen1?id=74925 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/huraivza Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="http://spa.fotolog.com/photo/26/10/32/albertogilabert/1232979929207_f.jpg" group-title="CINE",C+ 2
 http://cp2.level3.nmp.hls.emision.dof6.com/sogecable/channel33/index.m3u8
@@ -67,7 +67,7 @@ rtmp://137.63.71.234/edge/beinhd/beinhd playpath=beinhd pageUrl=http://www.boxli
 http://xurl.es/v840w
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes
-http://cpdeportes.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel3/index.m3u8
+rtmp://213.128.68.51/live/ls1tv3
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes
 rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
@@ -85,16 +85,16 @@ rtmp://94.242.228.83:80/liverepeater playpath=165657 swfUrl=http://cdn.goodcast.
 http://cpgolf.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_TUap8Wjt9kg/TA--1LNWn7I/AAAAAAAAADY/J_2i14Nf_4g/s1600/canalplus_liga_hd.jpg" group-title="DEPORTES",C+ Liga
-http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
+rtmp://109.123.116.26/live playpath=culebrol1?id=74795 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/huraivza Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_TUap8Wjt9kg/TA--1LNWn7I/AAAAAAAAADY/J_2i14Nf_4g/s1600/canalplus_liga_hd.jpg" group-title="DEPORTES",C+ Liga
-rtmp://12445055.cast247.tv:443/live playpath=sadoksdsdasf?ticket=ed3372229d41ca068b26a206bb50e9d1 swfUrl=http://www.cast247.tv/swf/player.swf live=1 pageUrl=http://www.cast247.tv/embed.php?channel=sadoksdsdasf&width=670&height=400&domain=streamingfreetv.net
+rtmp://207.244.89.19/iguide playpath=496phncoptoars6 swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://lacajatv.tv/wp-content/uploads/2014/03/canal_plus_liga_campeones1.jpg" group-title="DEPORTES",C+ Liga de Campeones
 http://cpligacamp.nmp.hls.emision.dof6.com/hls/live/201768/channelpc3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://lacajatv.tv/wp-content/uploads/2014/03/canal_plus_liga_campeones1.jpg" group-title="DEPORTES",C+ Liga de Campeones
-http://ccc13.doiptv.com/cs_ligachamp/playlist.m3u8
+rtmp://212.7.209.18/live playpath=hijosdeputalc?id=74926 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/huraivza Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Directv%20Sports.jpg" group-title="DEPORTES",DirectTv Sports 
 rtmp://195.154.235.85:80/liverepeater playpath=177719 swfUrl=http://cdn.goodcast.me/players.swf live=1 pageUrl=http://goodcast.me/streamn.php?id=177719&width=640&height=490 token=Fo5_n0w?U.rA6l3-70w47ch
@@ -112,7 +112,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&ro
 rtmp://46.28.49.156/live playpath=hrivo06?id=74910 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-NH9V9EIXDPg/TfOwmW5yiVI/AAAAAAAAAiw/9riAAWyLHBw/s1600/espn_deportes.jpg" group-title="DEPORTES",Espn Deportes
-rtmp://137.63.71.34/edge/ESPN2/ESPN2 playpath=ESPN2 pageUrl=http://www.boxlivetv.net/
+rtmp://178.162.199.141/iguide playpath=st4slsnedxf397g swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="EUROSPORT.png" group-title="DEPORTES",Eurosport
 rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDE0IDEwO jMwOjQ2IEFNJmhhc2hfdmFsdWU9K2tpVWVvbzlMdlZXZGp0TEl CM0VCdz09JnZhbGlkbWludXRlcz0yMA==/eurosport-hq
@@ -139,7 +139,7 @@ http://www.ienlace-tv.com:1935/live12/livestream1.sdp/playlist.m3u8
 http://ccc13.doiptv.com/cs_real_madrid/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
-http://sportmania.level3.nmp.hls.emision.dof6.com/sogecable/channel39/index.m3u8
+rtmp://46.21.145.226/live playpath=culebros?id=214452 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK
 
 #EXTINF:-1 tvg-logo="TELEDEPORTE.png" group-title="DEPORTES",Teledeporte
 http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
