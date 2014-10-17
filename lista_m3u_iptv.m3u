@@ -64,7 +64,7 @@ rtmp://207.244.67.24/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to
 rtmp://137.63.71.234/edge/beinhd/beinhd playpath=beinhd pageUrl=http://www.boxlivetv.net/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/BarsaTV%20.png" group-title="DEPORTES",Barça Tv
-http://xurl.es/v840w
+http://acabsw.doiptv.com/cs_barcatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg" group-title="DEPORTES",C+ Deportes
 rtmp://213.128.68.51/live/ls1tv3
@@ -127,7 +127,7 @@ http://usa.fankytv.com/live/foxsport.stream/chunklist.m3u8
 rtmp://109.123.116.154/live playpath=foxsport2vip?id=74022 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Gol%20Tv%202.jpg" group-title="DEPORTES",Gol Tv
-rtmp://46.165.210.40/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+rtmp://$OPT:rtmp-raw=rtmp://207.244.67.5/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Gol%20Tv%202.jpg" group-title="DEPORTES",Gol Tv
 rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
@@ -136,7 +136,7 @@ rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to
 http://www.ienlace-tv.com:1935/live12/livestream1.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Real%20Madrid%20Tv.png" group-title="DEPORTES",R.Madrid Tv
-http://ccc13.doiptv.com/cs_real_madrid/playlist.m3u8
+http://acabsw.doiptv.com/cs_real_madrid/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bmhuesca.com/userfiles/images/Noticias1314/Medios/Sportmania.JPG" group-title="DEPORTES",Sportmanía
 rtmp://46.21.145.226/live playpath=culebros?id=214452 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK
@@ -308,22 +308,22 @@ rtmp://31.220.0.134:1935/live playpath=amsportmechannel2 pageUrl=http://www.flas
 rtmp://31.220.0.103:1935/live playpath=amsportmechannel3 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wdlAQctyGF8/U36lIopkuEI/AAAAAAAAARo/gIldfGU6mgs/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 1
-rtmpe://46.246.124.22:1935/live/ playpath=sskys1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+http://acabsw.doiptv.com/sky_sport_1/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-_siFbFpAHko/U36lYEFEFlI/AAAAAAAAARw/jvenSLIIQYY/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 2
-rtmpe://46.246.124.22:1935/live/ playpath=sskys2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+http://acabsw.doiptv.com/sky_sport_2/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5RG9uacR3mg/U36lhS_HaPI/AAAAAAAAAR4/APixD08cj44/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 3
-rtmpe://46.246.124.22:1935/live/ playpath=sskys3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+http://acabsw.doiptv.com/sky_sport_3/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--IEwJB9AA8s/U36lvfVSwjI/AAAAAAAAASA/JjC6zgX1QOQ/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 4
-rtmpe://46.246.124.22:1935/live/ playpath=sskys4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+http://acabsw.doiptv.com/sky_sport_4/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_sport5.jpg" group-title="INTERSPORT",Sky Sports 5
-rtmpe://46.246.124.22:1935/live/ playpath=sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+http://acabsw.doiptv.com/sky_sport_5/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SkySportsF1.jpg" group-title="INTERSPORT",Sky Sports F1
-rtmpe://46.246.124.22:1935/live/ playpath=sskysf1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+http://acabsw.doiptv.com/sky_sport_f1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sport%201%20Germany.png" group-title="INTERSPORT",Sport 1 HD
 rtmp://37.187.162.40:1935/liverepeater/166506 
@@ -475,7 +475,7 @@ http://xurl.es/72419
 http://natgeo.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel18/05.m3u8
 
 #EXTINF:-1 tvg-logo="NATGEO WILD.png" group-title="DOCUMENTALES",Nat Geo Wild
-http://natgeowild.level3.nmp.hls.emision.dof6.com/sogecable/channel38/index.m3u8
+http://acabsw.doiptv.com/cs_natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KAbWj60.png" group-title="DOCUMENTALES",Natura
 http://freetvcast.pw/embed.php?a=200&id=&width=650&height=400&autostart=true&strech
