@@ -127,7 +127,7 @@ http://usa.fankytv.com/live/foxsport.stream/chunklist.m3u8
 rtmp://109.123.116.154/live playpath=foxsport2vip?id=74022 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Gol%20Tv%202.jpg" group-title="DEPORTES",Gol Tv
-rtmp://$OPT:rtmp-raw=rtmp://207.244.67.5/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+http://185.39.11.90:1935/liveorigin/tvb1_streamroot/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Gol%20Tv%202.jpg" group-title="DEPORTES",Gol Tv
 rtmp://207.244.89.23/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
