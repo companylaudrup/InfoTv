@@ -157,19 +157,19 @@ http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
 http://usa.fankytv.com/live/tyc.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 1
-http://tinyurl.com/or2j7lm
+rtmp://94.75.232.71:1935/live playpath=ar11a swfUrl=http://www.sports-x.net/play/huraivza.player.swf live=1 pageUrl=http://www.sports-x.net/ token=#kurac#Od#Ovce# --live
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 2
-http://tinyurl.com/qbpfb2x
+rtmp://94.75.232.71:1935/live playpath=ar21a swfUrl=http://www.sports-x.net/play/huraivza.player.swf live=1 pageUrl=http://www.sports-x.net/ token=#kurac#Od#Ovce# --live
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 3
-http://tinyurl.com/nddas6t
+rtmp://94.75.232.71:1935/live playpath=ar31a swfUrl=http://www.sports-x.net/play/huraivza.player.swf live=1 pageUrl=http://www.sports-x.net/ token=#kurac#Od#Ovce# --live
 
 #EXTINF:-1 tvg-logo="Arena Sport.png" group-title="INTERSPORT",Arena Sport 4
-http://tinyurl.com/l9kttew
+rtmp://94.75.232.71:1935/live playpath=ar41a swfUrl=http://www.sports-x.net/play/huraivza.player.swf live=1 pageUrl=http://www.sports-x.net/ token=#kurac#Od#Ovce# --live
 
 #EXTINF:-1 tvg-logo="http://livestreamhunter.org/images/logos/arena5.jpg" group-title="INTERSPORT",Arena Sport 5
-http://edin-ibro:sat@ipbih.dyndns.org:81/arenasr5
+rtmp://94.75.232.71:1935/live playpath=ar51a swfUrl=http://www.sports-x.net/play/huraivza.player.swf live=1 pageUrl=http://www.sports-x.net/ token=#kurac#Od#Ovce# --live
 
 #EXTINF:-1 tvg-logo="http://farm6.staticflickr.com/5535/11876015746_63973be0ff_o.jpg" group-title="INTERSPORT",Bein sport 1 FR
 http://beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipad.m3u8
