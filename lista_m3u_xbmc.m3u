@@ -426,7 +426,7 @@ http://acabsw.doiptv.com/cs_axn/playlist.m3u8
 http://acabsw.doiptv.com/cs_hollywoo.../playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.teledigital.es/wp-content/uploads/2013/11/CANAL+Series.gif" group-title="SERIES",C+ Series
-rtmp://188.165.221.77/live?token=SGye_yrdQSF-58o9SwQZvQExpired=1414346061 playpath=plusseries1 swfUrl=http://freebroadcast.pw/player/player.swf pageUrl=http://freebroadcast.pw/embed/embed.php?n=plusseries1&w=670&h=400
+rtmp://188.165.221.77/live?token=K9fKlgiM1Va-QMwh5X3ZPQExpired=1414353966 playpath=plusseries1 swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://freebroadcast.pw/embed/embed.php?n=plusseries1&w=670&h=400
 referer=http://streamingfreetv.net/canales/series/series1.html
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_PqT4khkofNI/TCx2_8qF-1I/AAAAAAAATg0/t7K1znsbiNU/s400/antiguo.jpg" group-title="SERIES",Calle 13
@@ -470,7 +470,8 @@ http://83.139.104.101/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m
 http://live.freelivetv.tv:1935/live/cazayperscaaaad301a390b4f08991c2c8484caf9e23b8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hgmDqn8qoHs/UisevnsHN9I/AAAAAAAAFrU/Sw82U1NrNDo/s1600/canalcocina.jpg" group-title="DOCUMENTALES",Cocina
-http://cocina.level3.nmp.hls.emision.dof6.com/sogecable/channel43/index.m3u8
+rtmp://188.165.221.77/live?token=tuZN-lLpwbC9hbQssVolvQExpired=1414353808 playpath=cocina swfUrl=http://freebroadcast.pw/player/player.swf live=1 pageUrl=http://freebroadcast.pw/embed/embed.php?n=cocina&w=670&h=400
+referer=http://streamingfreetv.net/canales/cocina/cocina1.html
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Cosmopolitan.jpg" group-title="DOCUMENTALES",Cosmopolitan
 http://cosmo.level3.nmp.hls.emision.dof6.com/sogecable/channel36/index.m3u8
