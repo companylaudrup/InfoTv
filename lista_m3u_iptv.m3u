@@ -109,7 +109,7 @@ rtmp://195.154.235.85:80/liverepeater playpath=177719 swfUrl=http://cdn.goodcast
 http://acabsw.doiptv.com/sky_espn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epltalk.com/wp-content/uploads/2009/09/espn2-logo.jpg" group-title="DEPORTES",Espn 2
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
+http://usa.fankytv.com/live/espn.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.faulknereagles.com/images/2012-13/espn3logo_copy.jpg" group-title="DEPORTES",Espn 3
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
