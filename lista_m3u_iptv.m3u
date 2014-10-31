@@ -58,7 +58,7 @@ https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=
 rtmp://207.244.89.23/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ARENAVISION.jpg" group-title="DEPORTES",Arenavision 2
-rtmp://$OPT:rtmp-raw=rtmp://95.211.211.222/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+rtmp://95.211.211.222/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-logo="http://cdn.livesoccertv.com/images/channels/thumbnails/bein-sport-en-espanol.gif" group-title="DEPORTES",bein sports Ñ
 rtmp://137.63.71.234/edge/beinhd/beinhd playpath=beinhd pageUrl=http://www.boxlivetv.net/
@@ -277,7 +277,7 @@ http://202.75.23.37/live/ch20/03.m3u8
 http://202.75.23.37:1400/live/ch20/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/WF%20Lucha%20Libre.jpg" group-title="INTERSPORT",Wwwe
-rtmp://$OPT:rtmp-raw=rtmp://cdn-edge.livestreamcast.org/liverepeat/ playpath=zona5gd swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=zona5gd&vw=700&vh=400
+rtmp://cdn-edge.livestreamcast.org/liverepeat/ playpath=zona5gd swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=zona5gd&vw=700&vh=400
 
 #EXTINF:-1 tvg-logo="Kombat.jpg" group-title="INTERSPORT",Kombat Sport
 http://kombat-hls.live.numericable.tv/live/hls/kombat/ipad.m3u8
