@@ -232,10 +232,10 @@ http://acabsw.doiptv.com/sky_bt_sport_1/playlist.m3u8
 http://acabsw.doiptv.com/sky_bt_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport1.jpg" group-title="INTERSPORT",Digi Sport 1
-rtmpe://46.246.124.84/live playpath=dig1 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/
+rtmpe://46.246.124.85/live playpath=dig1 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport2.jpg" group-title="INTERSPORT",Digi Sport 2
-rtmpe://31.220.0.12/live/dig2 pageUrl=http://www.dcast.tv
+tmpe://46.246.124.85/live playpath=dig2 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Digisport3.jpg" group-title="INTERSPORT",Digi Sport 3
 rtmpe://46.246.124.84/live playpath=sport11 swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf live=1 pageUrl=http://www.dcast.tv/
@@ -311,16 +311,16 @@ http://202.75.23.36/live/ch44/03.m3u8
 http://37.187.140.228:8080/hls32/skybundesliga1.m3u8?token=-Eupt0Xp-895IZ_c_jdTiA&e=1414710501&u=playtest&channel=skybundesliga1
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/sky_calcio.jpg" group-title="INTERSPORT",Sky Calcio (ITA)
-http://tinyurl.com/p8q9yot
+rtmp://95.168.199.243:1935/live playpath=amsportmechannel4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_calcio1.jpg" group-title="INTERSPORT",Sky Sports 1 (ITA)
-http://tinyurl.com/oqxlmtw
+rtmp://95.168.199.243:1935/live playpath=amsportmechannel1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_calcio2.jpg" group-title="INTERSPORT",Sky Sports 2 (ITA)
-http://tinyurl.com/kg33u3f
+rtmp://95.168.199.245:1935/live playpath=amsportmechannel2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Sky_calcio3.jpg" group-title="INTERSPORT",Sky Sports 3 (ITA)
-rtmp://31.220.0.103:1935/live playpath=amsportmechannel3 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+rtmp://31.220.0.104:1935/live playpath=amsportmechannel3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wdlAQctyGF8/U36lIopkuEI/AAAAAAAAARo/gIldfGU6mgs/s1600/im.jpeg" group-title="INTERSPORT",Sky Sports 1
 http://acabsw.doiptv.com/sky_sport_1/playlist.m3u8 
