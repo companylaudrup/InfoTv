@@ -1,7 +1,7 @@
 {
     "name": "EXCLUSIVE",
     "author": "pirri_mori",
-    "url": "http://pastebin.com/raw.php?i=mD1dkxaj",
+    "url": "https://raw.githubusercontent.com/pirrimori/InfoTv/master/lista_wiseplay.wise",
     "stations": [
      
 {	
@@ -117,7 +117,7 @@
 	},
 {
 		"name": "CAZA Y PESCA",
-		"image": "http://lacajatv.tv/cajanueva/logos/cazaypesca.jpg",
+		"image": "http://lawaridachatradio.com/Tv/imagenes/Caza-Pesca.jpg",
 		"url": "http://freetvcast.pw/embed.php?a=207&id=&width=670&height=400&autostart=true&strech",
 		"isHost": "true",
 		"referer": "http://hispaniatv.tv/TV/Documentales/bio.html"
