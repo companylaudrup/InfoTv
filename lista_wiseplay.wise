@@ -1,0 +1,205 @@
+{
+    "name": "9.1 TDT",
+    "author": "pirri_mori",
+    "url": "http://pastebin.com/raw.php?i=mD1dkxaj",
+    "stations": [
+     
+{	
+		"name": "LA 1",
+		"image": "http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png",
+		"url": "http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8"
+	},
+{
+		"name": "LA 2",
+		"image": "http://img2.wikia.nocookie.net/__cb20131127033358/pocoyoworld/images/thumb/7/75/Logo_TVE-2.svg/185px-Logo_TVE-2.svg.png",
+		"url": "http://acabsw.doiptv.com/cs_tve_2/playlist.m3u8"
+	},
+{
+		"name": "ANTENA 3",
+		"image": "http://www.formulatv.com/fotos/a/76000/76431/9tho2jqs5sdxqpa7394cb734508c3cc_logo-antena3-television_m.png",
+		"url": "http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8"
+	},  
+{
+		"name": "CUATRO",
+		"image": "http://upload.wikimedia.org/wikipedia/en/6/68/CuatroTV.png",
+		"url": "http://acabsw.doiptv.com/cs_cuatro/playlist.m3u8"
+	},
+{
+		"name": "TELECINCO",
+		"image": "http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png",
+		"url": "http://acabsw.doiptv.com/cs_telecinco/playlist.m3u8"
+	},
+{
+		"name": "LA SEXTA",
+		"image": "http://www.kiddyminimodel.es/blog/wp-content/uploads/2013/10/laSexta.png",
+		"url": "http://flashstreaming.mobi/emb/embed.php?n=z0049sext&w=650&h=400",
+		"isHost": "true"
+	},
+{
+		"name": "BUZZ ROJO",
+		"image": "http://www.canalbuzz.tv/img/canal_logo_buzzrojo.gif",
+		"url": "http://castalba.tv/embed.php?cid=24476&wh=670&ht=400&r=streamingfreetv.net",
+		"isHost": "true"
+	},              
+{
+		"name": "CANAL+",
+		"image": "http://1.bp.blogspot.com/-NTV4MHieQxM/UZejty9YnzI/AAAAAAAAEEM/FpgxHuBRtak/s1600/Canalplus_hd.png",
+		"url": "http://www.9stream.com/embedplayer_2.php?width=650&height=400&channel=148&autoplay=true",
+		"isHost": "true",
+		"referer": "http://verdirectotv.com/tv/plusaccion/plushd.html"
+	},
+{
+		"name": "CANAL+ 2",
+		"image": "http://4.bp.blogspot.com/-MtNRITvW-Dk/UZetjpX_GKI/AAAAAAAAEGk/LVItiqYuBVI/s320/Canal+Plus+2.jpg",
+		"url": "http://www.cast247.tv/embed.php?channel=saddasdscanal2&width=670&height=400&domain=streamingfreetv.net",
+		"isHost": "true"
+	},
+{
+		"name": "CANAL+ ACCION",
+		"image": "http://vertvonline.xtrweb.com/logostv/CANAL%20+%20ACCION.png",
+		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=155&autoplay=true",
+		"isHost": "true",
+		"referer": "http://verdirectotv.com/tv/plusaccion/plushd.html"
+	},
+{
+		"name": "CANAL+ COMEDIA",
+		"image": "http://i47.tinypic.com/2dvoqyw.jpg",
+		"url": "http://www.cast247.tv/embed.php?channel=plusjdskaks&width=670&height=400&domain=streamingfreetv.net",
+		"isHost": "true"    
+	},
+{
+		"name": "CANAL+ CINE",
+		"image": "http://1.bp.blogspot.com/-k0Oy_9sSyfE/UQiE0b20h7I/AAAAAAAAA-U/PxF4F4CK9zM/s1600/dcinehd.png",
+		"url": "http://www.cast247.tv/embed.php?channel=acccionymasstreams&width=670&height=400&domain=streamingfreetv.net",
+		"isHost": "true"
+	},
+{	
+		"name": "CANAL+ TOROS",
+		"image": "http://4.bp.blogspot.com/-wdHMf-9kCYg/UXr1XVgY_oI/AAAAAAAAM_8/_zZGadtze5U/s320/canal-toros.png",
+		"url": "http://acabsw.doiptv.com/cs_toros/playlist.m3u8"
+	},
+{
+		"name": "AXN",
+		"image": "http://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",
+		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=160&autoplay=true",
+		"isHost": "true",
+		"referer": "http://vercanalestv.com/tv/nacionales/axn.html"
+	},
+{
+		"name": "CALLE 13",
+		"image": "http://3.bp.blogspot.com/_PqT4khkofNI/TCx2_8qF-1I/AAAAAAAATg0/t7K1znsbiNU/s400/antiguo.jpg",
+		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=162&autoplay=true",
+		"isHost": "true",
+		"referer": "http://cinestrenostv.tv/canales/nacionales/calle13.php"
+	},
+{
+		"name": "CANAL+ SERIES",
+		"image": "http://www.teledigital.es/wp-content/uploads/2013/11/CANAL+Series.gif",
+		"url": "http://freebroadcast.pw/embed/embed.php?n=series&w=650&h=400",
+		"isHost": "true"
+	},
+{
+		"name": "FOX",
+		"image": "http://www.conectala.tv/wp-content/uploads/2013/05/FOX.png",
+		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=158&autoplay=true",
+		"isHost": "true",
+		"referer": "http://vercanalestv.com/tv/nacionales/fox.html"
+	},
+{
+		"name": "FOX LIFE",
+		"image": "http://tutele.s3.amazonaws.com/wp-content/uploads/2014/08/FOX-life.jpg",
+		"url": "http://acabsw.doiptv.com/cs_fox_crime/playlist.m3u8"
+	},
+{
+		"name": "A&E",
+		"image": "http://lgcdn.horror-movies.ca/wp-content/uploads/2012/09/AE.jpg",
+		"url": "http://acabsw.doiptv.com/cs_bio/playlist.m3u8"
+	},
+{
+		"name": "CAZA Y PESCA",
+		"image": "http://lacajatv.tv/cajanueva/logos/cazaypesca.jpg",
+		"url": "http://freetvcast.pw/embed.php?a=207&id=&width=670&height=400&autostart=true&strech",
+		"isHost": "true",
+		"referer": "http://hispaniatv.tv/TV/Documentales/bio.html"
+	},                          
+{
+		"name": "COCINA",
+		"image": "http://4.bp.blogspot.com/-hgmDqn8qoHs/UisevnsHN9I/AAAAAAAAFrU/Sw82U1NrNDo/s1600/canalcocina.jpg",
+		"url": "http://cocina.level3.nmp.hls.emision.dof6.com/sogecable/channel43/index.m3u8"
+	},
+{
+		"name": "COSMOPOLITAN",
+		"image": "http://1.bp.blogspot.com/-bvBIEmRc2us/UjYGpmRUM-I/AAAAAAAAATw/Ikmi6oJWm5I/s1600/canal40.png",
+		"url": "http://cosmo.level3.nmp.hls.emision.dof6.com/sogecable/channel36/06.m3u8"
+	},
+{
+		"name": "DISCOVERY",
+		"image": "http://img1.wikia.nocookie.net/__cb20121230042537/doblaje/es/images/7/7d/Logo-discovery-channel.jpg",
+		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=94&autoplay=true",
+		"isHost": "true",
+		"referer": "http://cinestrenostv.tv/canales/documentales/discoverychannel.php"
+	},
+{
+		"name": "TRIBO TV",
+		"image": "http://www.antenadigital.es/logostv/tribotv.png",
+		"url": "http://overon-apple-live.adaptive.level3.net/apple/overon/channel06/index.m3u8"
+	},
+{
+		"name": "DISCOVERY MAX",
+		"image": "http://img.vayatele.com/2011/12/logo-discovery-max.JPG",
+		"url": "http://freetvcast.pw/embed.php?a=252&id=&width=670&height=400&autostart=true&strech",
+		"isHost": "true"
+	},
+{
+		"name": "HISTORIA",
+		"image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
+		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=100&autoplay=true",
+		"isHost": "true",
+		"referer": "http://verdirectotv.com/tv/deportes/historia.html"
+	},
+{
+		"name": "NATIONAL GEOGRAPHIC",
+		"image": "http://www.soniablanco.es/wp-content/uploads/2013/06/natgeologo.jpg",
+		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=161&autoplay=true",
+		"isHost": "true",
+		"referer": "http://verdirectotv.com/tv/deportes/nationalgeographic.html"
+	},
+{
+		"name": "NATIONAL WILD",
+		"image": "http://natgeotv.com/App_Resources2/Themes/2012/Images/Main/natgeowild.png",
+		"url": "http://acabsw.doiptv.com/cs_natgeowild/playlist.m3u8"
+	},
+{
+		"name": "DISNEY CHANNEL",
+		"image": "http://i44.tinypic.com/2qw0uv4.jpg",
+		"url": "http://acabsw.doiptv.com/cs_disney_c.../playlist.m3u8"
+	},
+{
+		"name": "DISNEY JUNIOR",
+		"image": "http://1.bp.blogspot.com/-jvcOxsqXwOY/Ue7S8YsBk0I/AAAAAAAAZOA/x8gK_O6Jq9I/s71/Disney-Junior.PNG",
+		"url": "http://acabsw.doiptv.com/cs_disney_junior/playlist.m3u8"      
+	},
+{
+		"name": "Disney XD",
+		"image": "http://images2.wikia.nocookie.net/__cb20100425025429/inciclopedia/images/b/b3/Disney_XD.jpg",
+		"url": "http://disneyxd.level3.nmp.hls.emision.dof6.com/sogecable/channel24/index.m3u8"
+	},
+{
+		"name": "DISNEY CINEMAGIC",
+		"image": "http://massmail.disneyinternational.com/DOL/es/Disney_Cinemagic_Nemo_25_04_2011/images/mass_mail_cinemagic_10.jpg",
+		"url": "http://acabsw.doiptv.com/cs_disney_cinema/playlist.m3u8"
+	},
+{
+		"name": "CARTOON NETWORK",
+		"image": "http://i46.tinypic.com/2a9eetv.jpg",
+		"url": "http://www.janjua.tv/embedplayer/cartoon2016/1/620",
+		"isHost": "true"
+	},
+{
+		"name": "NICKELODEON",
+		"image": "http://3.bp.blogspot.com/-N9ej2EjVH48/UY5xXZBpH5I/AAAAAAAAAq0/2YCt0suTlpk/s1600/67.JPG",
+		"url": "http://www.janjua.tv/embedplayer/nick2021/1/600/385",
+		"isHost": "true"
+		},
+    ]
+}
