@@ -38,8 +38,9 @@
 {
 		"name": "BUZZ ROJO",
 		"image": "http://www.canalbuzz.tv/img/canal_logo_buzzrojo.gif",
-		"url": "http://castalba.tv/embed.php?cid=24476&wh=670&ht=400&r=streamingfreetv.net",
-		"isHost": "true"
+		"url": "http://vercosasgratis.com/embed.php?a=6473&id=&width=650&height=400&autostart=true&strech",
+		"isHost": "true",
+		"referer": "http://verlatelegratis.net/canales/buzz.php"
 	},              
 {
 		"name": "CANAL+",
@@ -51,21 +52,23 @@
 {
 		"name": "CANAL+ 2",
 		"image": "http://4.bp.blogspot.com/-MtNRITvW-Dk/UZetjpX_GKI/AAAAAAAAEGk/LVItiqYuBVI/s320/Canal+Plus+2.jpg",
-		"url": "http://www.cast247.tv/embed.php?channel=saddasdscanal2&width=670&height=400&domain=streamingfreetv.net",
-		"isHost": "true"
+		"url": "http://vercosasgratis.com/embed.php?a=6545&id=&width=650&height=400&autostart=true&strech",
+		"isHost": "true",
+		"referer": "http://canalesgratis.me/iframe/plusdos_2"
 	},
 {
 		"name": "CANAL+ ACCION",
 		"image": "http://vertvonline.xtrweb.com/logostv/CANAL%20+%20ACCION.png",
 		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=155&autoplay=true",
 		"isHost": "true",
-		"referer": "http://verdirectotv.com/tv/plusaccion/plushd.html"
+		"referer": "http://verlatelegratis.net/canales/accion.php"
 	},
 {
 		"name": "CANAL+ COMEDIA",
 		"image": "http://i47.tinypic.com/2dvoqyw.jpg",
-		"url": "http://www.cast247.tv/embed.php?channel=plusjdskaks&width=670&height=400&domain=streamingfreetv.net",
-		"isHost": "true"    
+		"url": "http://vercosasgratis.com/embed.php?a=6549&id=&width=650&height=400&autostart=true&strech",
+		"isHost": "true",
+		"referer": "http://canalesgratis.me/iframe/pluscomedia2"	
 	},
 {
 		"name": "CANAL+ CINE",
@@ -95,8 +98,9 @@
 {
 		"name": "CANAL+ SERIES",
 		"image": "http://www.teledigital.es/wp-content/uploads/2013/11/CANAL+Series.gif",
-		"url": "http://freebroadcast.pw/embed/embed.php?n=series&w=650&h=400",
-		"isHost": "true"
+		"url": "http://vercosasgratis.com/embed.php?a=6612&id=&width=650&height=400&autostart=true&strech",
+		"isHost": "true",
+		"referer": "http://canalesgratis.me/iframe/plusseries_2"
 	},
 {
 		"name": "FOX",
@@ -118,9 +122,9 @@
 {
 		"name": "CAZA Y PESCA",
 		"image": "http://lawaridachatradio.com/Tv/imagenes/Caza-Pesca.jpg",
-		"url": "http://freetvcast.pw/embed.php?a=207&id=&width=670&height=400&autostart=true&strech",
+		"url": "http://vercosasgratis.com/embed.php?a=6543&id=&width=650&height=400&autostart=true&strech",
 		"isHost": "true",
-		"referer": "http://hispaniatv.tv/TV/Documentales/bio.html"
+		"referer": "http://canalesgratis.me/iframe/cazaypesca2"
 	},                          
 {
 		"name": "COCINA",
@@ -137,7 +141,7 @@
 		"image": "http://img1.wikia.nocookie.net/__cb20121230042537/doblaje/es/images/7/7d/Logo-discovery-channel.jpg",
 		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=94&autoplay=true",
 		"isHost": "true",
-		"referer": "http://cinestrenostv.tv/canales/documentales/discoverychannel.php"
+		"referer": "http://vertvonline.mobi/canales/discovery.html"
 	},
 {
 		"name": "TRIBO TV",
