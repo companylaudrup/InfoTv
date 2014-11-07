@@ -60,8 +60,7 @@
 		"name": "CANAL+ ACCION",
 		"image": "http://vertvonline.xtrweb.com/logostv/CANAL%20+%20ACCION.png",
 		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=155&autoplay=true",
-		"isHost": "true",
-		"referer": "http://verlatelegratis.net/canales/accion.php"
+		"isHost": "true"
 	},
 {
 		"name": "CANAL+ COMEDIA",
