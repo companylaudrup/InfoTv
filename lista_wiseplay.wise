@@ -32,7 +32,7 @@
 {
 		"name": "LA SEXTA",
 		"image": "http://www.kiddyminimodel.es/blog/wp-content/uploads/2013/10/laSexta.png",
-		"url": "http://flashstreaming.mobi/emb/embed.php?n=z0049sext&w=650&h=400",
+		"url": "http://www.tvonlinegratis.mobi/player/lasexta.php?width=650&height=400",
 		"isHost": "true"
 	},
 {
@@ -45,9 +45,8 @@
 {
 		"name": "CANAL+",
 		"image": "http://1.bp.blogspot.com/-NTV4MHieQxM/UZejty9YnzI/AAAAAAAAEEM/FpgxHuBRtak/s1600/Canalplus_hd.png",
-		"url": "http://www.ucaster.eu/embedded/canal89/1/650/400",
-		"isHost": "true",
-		"referer": "http://cinestrenostv.tv/canales/nacionales/plus1.php"
+		"url": "http://www.mips.tv/embedplayer/problems1/1/645/395",
+		"isHost": "true"
 	},
 {
 		"name": "CANAL+ 2",
@@ -61,7 +60,7 @@
 		"image": "http://vertvonline.xtrweb.com/logostv/CANAL%20+%20ACCION.png",
 		"url": "http://www.9stream.com/embedplayer.php?width=650&height=400&channel=155&autoplay=true",
 		"isHost": "true",
-		"referer": "http://cinestrenostv.tv/canales/nacionales/plus-accion.php"
+		"referer": "http://www.tvonlinegratis.mobi/recursos/canal-plus-accion-hd"
 	},
 {
 		"name": "CANAL+ COMEDIA",
