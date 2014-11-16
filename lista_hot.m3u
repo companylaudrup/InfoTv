@@ -74,3 +74,6 @@ rtmp://live2.ustream4u.eu:80/live/?u=xtasi playpath=xtasi swfUrl=http://www.ustr
 
 #EXTINF:-1,warner chanel
 rtmp://$OPT:rtmp-raw=rtmp://109.123.116.154/live playpath=warner3014?id=71932 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/warner3014/1/620/385 conn=S:OK
+
+#EXTINF:-1,canal+2
+rtmp://$OPT:rtmp-raw=rtmp://188.165.210.103/live?token=pvVxUfxBoDQaGNo3PIN94QExpired=1416181374 playpath=verplus28r7m06v swfUrl=http://vercosasgratis.com/player.swf live=1 pageUrl=http://vercosasgratis.com/embed.php?a=6545&id=&width=650&height=400&autostart=true&strech=
