@@ -72,3 +72,5 @@ rtmp://edge-05.livestreamcast.org/sexzonehd/sexzonehd/ playpath=sexzonehd swfUrl
 #EXTINF:-1,VENUS TV
 rtmp://live2.ustream4u.eu:80/live/?u=xtasi playpath=xtasi swfUrl=http://www.ustream4u.eu/player/player.swf live=1 pageUrl=http://www.ustream4u.eu/embed.php?v=xtasi&vw=489&vh=370&domain=www.mill-tv.com
 
+#EXTINF:-1,warner chanel
+rtmp://$OPT:rtmp-raw=rtmp://109.123.116.154/live playpath=warner3014?id=71932 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/warner3014/1/620/385 conn=S:OK
